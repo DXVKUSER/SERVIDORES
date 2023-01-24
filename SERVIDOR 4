@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E
 http://sv1.casaplay5g.win:8080/lazaro/123456/3426
 #EXTINF:-1 tvg-id="A&E FHD H.265" tvg-name="A&E 4K" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E 4K
