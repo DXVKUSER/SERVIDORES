@@ -122,6 +122,14 @@
 <info>[COLOR blue]SERVIDOR 11[/COLOR]</info>
 <externallink>https://sharetext.me/raw/ro8q022fqj</externallink>
 </channel>
+  
+  <channel>
+<name>[B][COLOR orange]TESTES[/COLOR][/B]</name>
+<thumbnail>https://vetorempilhadeiras.com.br/loja/wp-content/uploads/2021/02/d2d47e23b5.jpg</thumbnail>
+<fanart>https://filmesnseries.files.wordpress.com/2018/12/02.jpg?w=1080</fanart>
+<info>[COLOR blue]SERVIDOR TESTE[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-dos-canais-/master/README.md</externallink>
+</channel>
 
 
 </channels>
