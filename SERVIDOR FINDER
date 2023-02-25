@@ -1,259 +1,259 @@
 #EXTM3U
-#EXTINF:-1,A&E
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E
 http://206.1.95.13:8004/play/a03d
-#EXTINF:-1,AMC
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
 http://206.1.95.13:8004/play/a00u
-#EXTINF:-1,AXN
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN
 http://206.1.95.13:8004/play/a02d
-#EXTINF:-1,Animal Planet
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet
 http://206.1.95.13:8004/play/a02y
-#EXTINF:-1,Arte 1
+#EXTINF:0 tvg-id="Arte1.br" group-title="Channels",Arte 1
 http://206.1.95.13:8004/play/a02h
-#EXTINF:-1,Baby TV
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Channels",Baby TV
 http://206.1.95.13:8004/play/a00n
-#EXTINF:-1,Band News
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",Band News
 http://206.1.95.13:8004/play/a020
-#EXTINF:-1,Band Sports
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",Band Sports
 http://206.1.95.13:8004/play/a01p
-#EXTINF:-1,Bandeirantes
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",Bandeirantes
 http://206.1.95.13:8004/play/a051
-#EXTINF:-1,Boa Vontade TV
+#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Channels",Boa Vontade TV
 http://206.1.95.13:8004/play/a02a
-#EXTINF:-1,Boa Vontade TV
+#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Channels",Boa Vontade TV
 http://206.1.95.13:8004/play/a02p
-#EXTINF:-1,CNN Brasil
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",CNN Brasil
 http://206.1.95.13:8004/play/a01e
-#EXTINF:-1,CNN Espaæol
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN Espaæol
 http://206.1.95.13:8004/play/a02f
-#EXTINF:-1,CNN Internacional
+#EXTINF:0 tvg-id="Cnninternacional.br" group-title="Channels",CNN Internacional
 http://206.1.95.13:8004/play/a04w
-#EXTINF:-1,CNT
+#EXTINF:0 tvg-id="Cnt.br" group-title="Channels",CNT
 http://206.1.95.13:8004/play/a00s
-#EXTINF:-1,CONMEBOL TV 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL TV 3
 http://206.1.95.13:8004/play/a035
-#EXTINF:-1,Canal Brasil
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",Canal Brasil
 http://206.1.95.13:8004/play/a00k
-#EXTINF:-1,Canal EducaĿªo - MEC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal EducaĿªo - MEC
 http://206.1.95.13:8004/play/a03q
-#EXTINF:-1,Canal Rural
+#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",Canal Rural
 http://206.1.95.13:8004/play/a03g
-#EXTINF:-1,Canal Sony
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Canal Sony
 http://206.1.95.13:8004/play/a01s
-#EXTINF:-1,Canal do Boi
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",Canal do Boi
 http://206.1.95.13:8004/play/a01d
-#EXTINF:-1,CanĿªo Nova
+#EXTINF:0 tvg-id="ext" group-title="Channels",CanĿªo Nova
 http://206.1.95.13:8004/play/a03t
-#EXTINF:-1,Cartoon Network
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",Cartoon Network
 http://206.1.95.13:8004/play/a018
-#EXTINF:-1,Cartoonito
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito
 http://206.1.95.13:8004/play/a03f
-#EXTINF:-1,Cinemax
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",Cinemax
 http://206.1.95.13:8004/play/a04l
-#EXTINF:-1,Combate
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate
 http://206.1.95.13:8004/play/a037
-#EXTINF:-1,Comedy Central
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central
 http://206.1.95.13:8004/play/a02x
-#EXTINF:-1,Curta!
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curta!
 http://206.1.95.13:8004/play/a030
-#EXTINF:-1,DW (Deutsch+)
+#EXTINF:0 tvg-id="Dw(deutsch+).br" group-title="Channels",DW (Deutsch+)
 http://206.1.95.13:8004/play/a04y
-#EXTINF:-1,Discovery Channel
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel
 http://206.1.95.13:8004/play/a00r
-#EXTINF:-1,Discovery H&H
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",Discovery H&H
 http://206.1.95.13:8004/play/a01n
-#EXTINF:-1,Discovery Kids
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",Discovery Kids
 http://206.1.95.13:8004/play/a04q
-#EXTINF:-1,Discovery Turbo
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo
 http://206.1.95.13:8004/play/a01w
-#EXTINF:-1,Disney
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Channels",Disney
 http://206.1.95.13:8004/play/a03h
-#EXTINF:-1,E!
+#EXTINF:0 tvg-id="E.br" group-title="Channels",E!
 http://206.1.95.13:8004/play/a02r
-#EXTINF:-1,ESPN
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
 http://206.1.95.13:8004/play/a01o
-#EXTINF:-1,ESPN 2
+#EXTINF:0 tvg-id="ESPN2.br" group-title="Channels",ESPN 2
 http://206.1.95.13:8004/play/a027
-#EXTINF:-1,ESPN 4
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4
 http://206.1.95.13:8004/play/a015
-#EXTINF:-1,FX
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX
 http://206.1.95.13:8004/play/a01r
-#EXTINF:-1,Fish TV
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",Fish TV
 http://206.1.95.13:8004/play/a03b
-#EXTINF:-1,Food Network
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Channels",Food Network
 http://206.1.95.13:8004/play/a00e
-#EXTINF:-1,Fox Sports 2
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2
 http://206.1.95.13:8004/play/a024
-#EXTINF:-1,GNT
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",GNT
 http://206.1.95.13:8004/play/a03a
-#EXTINF:-1,Globo Minas
+#EXTINF:0 tvg-id="Globominas.br" group-title="Channels",Globo Minas
 http://206.1.95.13:8004/play/a055
-#EXTINF:-1,Globo RJ
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",Globo RJ
 http://206.1.95.13:8004/play/a054
-#EXTINF:-1,GloboNews
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",GloboNews
 http://206.1.95.13:8004/play/a026
-#EXTINF:-1,Gloob
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",Gloob
 http://206.1.95.13:8004/play/a00o
-#EXTINF:-1,Gloobinho
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gloobinho
 http://206.1.95.13:8004/play/a04p
-#EXTINF:-1,HBO
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO
 http://206.1.95.13:8004/play/a00l
-#EXTINF:-1,HBO Family
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
 http://206.1.95.13:8004/play/a03c
-#EXTINF:-1,HBO MUNDI
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO MUNDI
 http://206.1.95.13:8004/play/a02u
-#EXTINF:-1,HBO Signature
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature
 http://206.1.95.13:8004/play/a02c
-#EXTINF:-1,HBO XTREME
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME
 http://206.1.95.13:8004/play/a04n
-#EXTINF:-1,HBO2
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO2
 http://206.1.95.13:8004/play/a01q
-#EXTINF:-1,History 2
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",History 2
 http://206.1.95.13:8004/play/a01u
-#EXTINF:-1,I-SAT
+#EXTINF:0 tvg-id="iSat.br" group-title="Channels",I-SAT
 http://206.1.95.13:8004/play/a03n
-#EXTINF:-1,ID - InvestigaĿªo Discovery
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID - InvestigaĿªo Discovery
 http://206.1.95.13:8004/play/a01y
-#EXTINF:-1,IDEAL TV
+#EXTINF:0 tvg-id="Idealtv.br" group-title="Channels",IDEAL TV
 http://206.1.95.13:8004/play/a019
-#EXTINF:-1,MegaPix
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MegaPix
 http://206.1.95.13:8004/play/a04m
-#EXTINF:-1,Multishow
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow
 http://206.1.95.13:8004/play/a02q
-#EXTINF:-1,Music Box Brazil
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Box Brazil
 http://206.1.95.13:8004/play/a01a
-#EXTINF:-1,NHK
+#EXTINF:0 tvg-id="Nhk.br" group-title="Channels",NHK
 http://206.1.95.13:8004/play/a03o
-#EXTINF:-1,National Geographic
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic
 http://206.1.95.13:8004/play/a01x
-#EXTINF:-1,Nick Jr
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",Nick Jr
 http://206.1.95.13:8004/play/a03i
-#EXTINF:-1,Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",Nickelodeon
 http://206.1.95.13:8004/play/a01v
-#EXTINF:-1,OFF
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF
 http://206.1.95.13:8004/play/a00h
-#EXTINF:-1,Paramount Network
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount Network
 http://206.1.95.13:8004/play/a00g
-#EXTINF:-1,Polishop TV
+#EXTINF:0 tvg-id="Polishop.br" group-title="Channels",Polishop TV
 http://206.1.95.13:8004/play/a03p
-#EXTINF:-1,Polishop TV
+#EXTINF:0 tvg-id="Polishop.br" group-title="Channels",Polishop TV
 http://206.1.95.13:8004/play/a03u
-#EXTINF:-1,Premiere 2
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2
 http://206.1.95.13:8004/play/a021
-#EXTINF:-1,Premiere 3
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3
 http://206.1.95.13:8004/play/a038
-#EXTINF:-1,Premiere 4
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4
 http://206.1.95.13:8004/play/a03s
-#EXTINF:-1,Premiere 5
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",Premiere 5
 http://206.1.95.13:8004/play/a02l
-#EXTINF:-1,Premiere 8
+#EXTINF:0 tvg-id="Premiere8.br" group-title="Channels",Premiere 8
 http://206.1.95.13:8004/play/a00x
-#EXTINF:-1,Premiere Clubes
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes
 http://206.1.95.13:8004/play/a022
-#EXTINF:-1,Prime Box Brazil
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Box Brazil
 http://206.1.95.13:8004/play/a02b
-#EXTINF:-1,RAI
+#EXTINF:0 tvg-id="Rai.br" group-title="Channels",RAI
 http://206.1.95.13:8004/play/a04v
-#EXTINF:-1,RBI
+#EXTINF:0 tvg-id="Rbi.br" group-title="Channels",RBI
 http://206.1.95.13:8004/play/a03m
-#EXTINF:-1,RBS TV Porto Alegre
+#EXTINF:0 tvg-id="Rbstvpoa.br" group-title="Channels",RBS TV Porto Alegre
 http://206.1.95.13:8004/play/a057
-#EXTINF:-1,RECORDTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORDTV
 http://206.1.95.13:8004/play/a02i
-#EXTINF:-1,RIT
+#EXTINF:0 tvg-id="Rit.br" group-title="Channels",RIT
 http://206.1.95.13:8004/play/a03l
-#EXTINF:-1,Record News
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
 http://206.1.95.13:8004/play/a00q
-#EXTINF:-1,Rede Brasil
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Channels",Rede Brasil
 http://206.1.95.13:8004/play/a02g
-#EXTINF:-1,Rede TV
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",Rede TV
 http://206.1.95.13:8004/play/a04u
-#EXTINF:-1,Rede Vida
+#EXTINF:0 tvg-id="Redevida.br" group-title="Channels",Rede Vida
 http://206.1.95.13:8004/play/a02e
-#EXTINF:-1,SBT
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
 http://206.1.95.13:8004/play/a023
-#EXTINF:-1,SIC Internacional
+#EXTINF:0 tvg-id="Sic.br" group-title="Channels",SIC Internacional
 http://206.1.95.13:8004/play/a04x
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
 http://206.1.95.13:8004/play/a016
-#EXTINF:-1,Space
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
 http://206.1.95.13:8004/play/a02s
-#EXTINF:-1,SporTV
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
 http://206.1.95.13:8004/play/a00f
-#EXTINF:-1,SporTV 2
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
 http://206.1.95.13:8004/play/a025
-#EXTINF:-1,SporTV 2 Alternativo
+#EXTINF:0 tvg-id="ext" group-title="Channels",SporTV 2 Alternativo
 http://206.1.95.13:8004/play/a00y
-#EXTINF:-1,SporTV 3
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SporTV 3
 http://206.1.95.13:8004/play/a04k
-#EXTINF:-1,SporTV Alternativo
+#EXTINF:0 tvg-id="ext" group-title="Channels",SporTV Alternativo
 http://206.1.95.13:8004/play/a050
-#EXTINF:-1,Studio Universal
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",Studio Universal
 http://206.1.95.13:8004/play/a02w
-#EXTINF:-1,Syfy
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",Syfy
 http://206.1.95.13:8004/play/a04o
-#EXTINF:-1,TBS
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS
 http://206.1.95.13:8004/play/a03e
-#EXTINF:-1,TCM
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",TCM
 http://206.1.95.13:8004/play/a02v
-#EXTINF:-1,TLC
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC
 http://206.1.95.13:8004/play/a01z
-#EXTINF:-1,TNT
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT
 http://206.1.95.13:8004/play/a028
-#EXTINF:-1,TNT SØries
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SØries
 http://206.1.95.13:8004/play/a02z
-#EXTINF:-1,TV Anhanguera GoiÐnia
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Anhanguera GoiÐnia
 http://206.1.95.13:8004/play/a056
-#EXTINF:-1,TV Aparecida
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV Aparecida
 http://206.1.95.13:8004/play/a04t
-#EXTINF:-1,TV Brasil
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",TV Brasil
 http://206.1.95.13:8004/play/a034
-#EXTINF:-1,TV Brasil 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Brasil 2
 http://206.1.95.13:8004/play/a039
-#EXTINF:-1,TV Cultura
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Channels",TV Cultura
 http://206.1.95.13:8004/play/a02o
-#EXTINF:-1,TV CÐmara
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CÐmara
 http://206.1.95.13:8004/play/a033
-#EXTINF:-1,TV JustiĿa
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV JustiĿa
 http://206.1.95.13:8004/play/a031
-#EXTINF:-1,TV Novo Tempo
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="Channels",TV Novo Tempo
 http://206.1.95.13:8004/play/a04z
-#EXTINF:-1,TV Novo Tempo
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="Channels",TV Novo Tempo
 http://206.1.95.13:8004/play/a053
-#EXTINF:-1,TV RÆ tim bum
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV RÆ tim bum
 http://206.1.95.13:8004/play/a03j
-#EXTINF:-1,TV Senado
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="Channels",TV Senado
 http://206.1.95.13:8004/play/a032
-#EXTINF:-1,TV Tem Bauru
+#EXTINF:0 tvg-id="Tvtembauru.br" group-title="Channels",TV Tem Bauru
 http://206.1.95.13:8004/play/a05a
-#EXTINF:-1,TV Tem Sorocaba
+#EXTINF:0 tvg-id="Tvtemsorocaba.br" group-title="Channels",TV Tem Sorocaba
 http://206.1.95.13:8004/play/a059
-#EXTINF:-1,TV Tribuna Santos
+#EXTINF:0 tvg-id="Tvtribuna.br" group-title="Channels",TV Tribuna Santos
 http://206.1.95.13:8004/play/a058
-#EXTINF:-1,TV5 Monde
+#EXTINF:0 tvg-id="Tv5monde.br" group-title="Channels",TV5 Monde
 http://206.1.95.13:8004/play/a02k
-#EXTINF:-1,TVE
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
 http://206.1.95.13:8004/play/a01b
-#EXTINF:-1,Telecine Action
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action
 http://206.1.95.13:8004/play/a017
-#EXTINF:-1,Telecine Cult
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult
 http://206.1.95.13:8004/play/a029
-#EXTINF:-1,Telecine Pipoca
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca
 http://206.1.95.13:8004/play/a02t
-#EXTINF:-1,Telecine Premium
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium
 http://206.1.95.13:8004/play/a00i
-#EXTINF:-1,Telecine Touch
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch
 http://206.1.95.13:8004/play/a00j
-#EXTINF:-1,Terra Viva
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",Terra Viva
 http://206.1.95.13:8004/play/a03k
-#EXTINF:-1,The History Channel
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",The History Channel
 http://206.1.95.13:8004/play/a04r
-#EXTINF:-1,Tooncast
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Channels",Tooncast
 http://206.1.95.13:8004/play/a00p
-#EXTINF:-1,TruTV
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",TruTV
 http://206.1.95.13:8004/play/a00m
-#EXTINF:-1,Universal TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal TV
 http://206.1.95.13:8004/play/a02j
-#EXTINF:-1,Woohoo
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",Woohoo
 http://206.1.95.13:8004/play/a01t
-#EXTINF:-1,ZooMoo
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZooMoo
 http://206.1.95.13:8004/play/a00t
