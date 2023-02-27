@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="" group-title="Canais | 24 Horas",A Grande Familia 24hs
 http://lxls.mx:80/GNcQ86/9uE9zR6/333079
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E 4K FHDR" tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
