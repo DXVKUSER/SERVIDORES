@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO TESTE",HBO HD TESTE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&url=http://sukitam.bccdn.xyz:80/live/7898723785892pw/897438238593pw/41.m3u8
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MF1UHD.png" group-title="DEPORTES",DAZN F1 UHD 4K
 http://tribaliptv.com:8080/live/Agustin/12345678/4930.m3u8
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DEPORTES",DAZN F1 HD 1080P
