@@ -1,257 +1,69 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://206.1.95.15:8004/play/a03d
-#EXTINF:-1,AMC
-http://206.1.95.15:8004/play/a00u
-#EXTINF:-1,AXN
-http://206.1.95.15:8004/play/a02d
-#EXTINF:-1,Animal Planet
-http://206.1.95.15:8004/play/a02y
-#EXTINF:-1,Arte 1
-http://206.1.95.15:8004/play/a02h
-#EXTINF:-1,Baby TV
-http://206.1.95.15:8004/play/a00n
-#EXTINF:-1,Band News
-http://206.1.95.15:8004/play/a020
-#EXTINF:-1,Band Sports
-http://206.1.95.15:8004/play/a01p
-#EXTINF:-1,Bandeirantes
-http://206.1.95.15:8004/play/a051
-#EXTINF:-1,Boa Vontade TV
-http://206.1.95.15:8004/play/a02a
-#EXTINF:-1,Boa Vontade TV
-http://206.1.95.15:8004/play/a02p
-#EXTINF:-1,CNN Brasil
-http://206.1.95.15:8004/play/a01e
-#EXTINF:-1,CNN Espaæol
-http://206.1.95.15:8004/play/a02f
-#EXTINF:-1,CNN Internacional
-http://206.1.95.15:8004/play/a04w
-#EXTINF:-1,CNT
-http://206.1.95.15:8004/play/a00s
-#EXTINF:-1,Canal Brasil
-http://206.1.95.15:8004/play/a00k
-#EXTINF:-1,Canal EducaĿªo - MEC
-http://206.1.95.15:8004/play/a03q
-#EXTINF:-1,Canal Rural
-http://206.1.95.15:8004/play/a03g
-#EXTINF:-1,Canal Sony
-http://206.1.95.15:8004/play/a01s
-#EXTINF:-1,Canal do Boi
-http://206.1.95.15:8004/play/a01d
-#EXTINF:-1,CanĿªo Nova
-http://206.1.95.15:8004/play/a03t
-#EXTINF:-1,Cartoon Network
-http://206.1.95.15:8004/play/a018
-#EXTINF:-1,Cartoonito
-http://206.1.95.15:8004/play/a03f
-#EXTINF:-1,Cinemax
-http://206.1.95.15:8004/play/a04l
-#EXTINF:-1,Combate
-http://206.1.95.15:8004/play/a037
-#EXTINF:-1,Comedy Central
-http://206.1.95.15:8004/play/a02x
-#EXTINF:-1,Curta!
-http://206.1.95.15:8004/play/a030
-#EXTINF:-1,DW (Deutsch+)
-http://206.1.95.15:8004/play/a04y
-#EXTINF:-1,Discovery Channel
-http://206.1.95.15:8004/play/a00r
-#EXTINF:-1,Discovery H&H
-http://206.1.95.15:8004/play/a01n
-#EXTINF:-1,Discovery Kids
-http://206.1.95.15:8004/play/a04q
-#EXTINF:-1,Discovery Turbo
-http://206.1.95.15:8004/play/a01w
-#EXTINF:-1,Disney 
-http://206.1.95.15:8004/play/a03h
-#EXTINF:-1,E!
-http://206.1.95.15:8004/play/a02r
-#EXTINF:-1,ESPN
-http://206.1.95.15:8004/play/a01o
-#EXTINF:-1,ESPN 2
-http://206.1.95.15:8004/play/a027
-#EXTINF:-1,ESPN 4
-http://206.1.95.15:8004/play/a015
-#EXTINF:-1,FX
-http://206.1.95.15:8004/play/a01r
-#EXTINF:-1,Fish TV
-http://206.1.95.15:8004/play/a03b
-#EXTINF:-1,Food Network
-http://206.1.95.15:8004/play/a00e
-#EXTINF:-1,Fox Sports 2
-http://206.1.95.15:8004/play/a024
-#EXTINF:-1,GNT
-http://206.1.95.15:8004/play/a03a
-#EXTINF:-1,Globo Minas
-http://206.1.95.15:8004/play/a055
-#EXTINF:-1,Globo RJ
-http://206.1.95.15:8004/play/a054
-#EXTINF:-1,GloboNews
-http://206.1.95.15:8004/play/a026
-#EXTINF:-1,Gloob
-http://206.1.95.15:8004/play/a00o
-#EXTINF:-1,Gloobinho
-http://206.1.95.15:8004/play/a04p
-#EXTINF:-1,HBO
-http://206.1.95.15:8004/play/a00l
-#EXTINF:-1,HBO Family
-http://206.1.95.15:8004/play/a03c
-#EXTINF:-1,HBO MUNDI
-http://206.1.95.15:8004/play/a02u
-#EXTINF:-1,HBO Signature
-http://206.1.95.15:8004/play/a02c
-#EXTINF:-1,HBO XTREME
-http://206.1.95.15:8004/play/a04n
-#EXTINF:-1,HBO2
-http://206.1.95.15:8004/play/a01q
-#EXTINF:-1,History 2
-http://206.1.95.15:8004/play/a01u
-#EXTINF:-1,I-SAT
-http://206.1.95.15:8004/play/a03n
-#EXTINF:-1,ID - InvestigaĿªo Discovery
-http://206.1.95.15:8004/play/a01y
-#EXTINF:-1,IDEAL TV
-http://206.1.95.15:8004/play/a019
-#EXTINF:-1,MegaPix
-http://206.1.95.15:8004/play/a04m
-#EXTINF:-1,Multishow
-http://206.1.95.15:8004/play/a02q
-#EXTINF:-1,Music Box Brazil
-http://206.1.95.15:8004/play/a01a
-#EXTINF:-1,NHK
-http://206.1.95.15:8004/play/a03o
-#EXTINF:-1,National Geographic
-http://206.1.95.15:8004/play/a01x
-#EXTINF:-1,Nick Jr
-http://206.1.95.15:8004/play/a03i
-#EXTINF:-1,Nickelodeon
-http://206.1.95.15:8004/play/a01v
-#EXTINF:-1,OFF
-http://206.1.95.15:8004/play/a00h
-#EXTINF:-1,Paramount Network
-http://206.1.95.15:8004/play/a00g
-#EXTINF:-1,Polishop TV
-http://206.1.95.15:8004/play/a03p
-#EXTINF:-1,Polishop TV
-http://206.1.95.15:8004/play/a03u
-#EXTINF:-1,Premiere 2
-http://206.1.95.15:8004/play/a021
-#EXTINF:-1,Premiere 3
-http://206.1.95.15:8004/play/a038
-#EXTINF:-1,Premiere 4
-http://206.1.95.15:8004/play/a03s
-#EXTINF:-1,Premiere 5
-http://206.1.95.15:8004/play/a02l
-#EXTINF:-1,Premiere 8
-http://206.1.95.15:8004/play/a00x
-#EXTINF:-1,Premiere Clubes
-http://206.1.95.15:8004/play/a022
-#EXTINF:-1,Prime Box Brazil
-http://206.1.95.15:8004/play/a02b
-#EXTINF:-1,RAI
-http://206.1.95.15:8004/play/a04v
-#EXTINF:-1,RBI
-http://206.1.95.15:8004/play/a03m
-#EXTINF:-1,RBS TV Porto Alegre
-http://206.1.95.15:8004/play/a057
-#EXTINF:-1,RECORDTV
-http://206.1.95.15:8004/play/a02i
-#EXTINF:-1,RIT
-http://206.1.95.15:8004/play/a03l
-#EXTINF:-1,Record News
-http://206.1.95.15:8004/play/a00q
-#EXTINF:-1,Rede Brasil
-http://206.1.95.15:8004/play/a02g
-#EXTINF:-1,Rede TV
-http://206.1.95.15:8004/play/a04u
-#EXTINF:-1,Rede Vida
-http://206.1.95.15:8004/play/a02e
-#EXTINF:-1,SBT
-http://206.1.95.15:8004/play/a023
-#EXTINF:-1,SIC Internacional
-http://206.1.95.15:8004/play/a04x
-#EXTINF:-1,STAR CHANNEL
-http://206.1.95.15:8004/play/a016
-#EXTINF:-1,Space
-http://206.1.95.15:8004/play/a02s
-#EXTINF:-1,SporTV
-http://206.1.95.15:8004/play/a00f
-#EXTINF:-1,SporTV 2
-http://206.1.95.15:8004/play/a025
-#EXTINF:-1,SporTV 2 Alternativo
-http://206.1.95.15:8004/play/a00y
-#EXTINF:-1,SporTV 3
-http://206.1.95.15:8004/play/a04k
-#EXTINF:-1,SporTV Alternativo
-http://206.1.95.15:8004/play/a050
-#EXTINF:-1,Studio Universal
-http://206.1.95.15:8004/play/a02w
-#EXTINF:-1,Syfy
-http://206.1.95.15:8004/play/a04o
-#EXTINF:-1,TBS
-http://206.1.95.15:8004/play/a03e
-#EXTINF:-1,TCM
-http://206.1.95.15:8004/play/a02v
-#EXTINF:-1,TLC
-http://206.1.95.15:8004/play/a01z
-#EXTINF:-1,TNT 
-http://206.1.95.15:8004/play/a028
-#EXTINF:-1,TNT SØries
-http://206.1.95.15:8004/play/a02z
-#EXTINF:-1,TV Anhanguera GoiÐnia
-http://206.1.95.15:8004/play/a056
-#EXTINF:-1,TV Aparecida
-http://206.1.95.15:8004/play/a04t
-#EXTINF:-1,TV Brasil
-http://206.1.95.15:8004/play/a034
-#EXTINF:-1,TV Brasil 2
-http://206.1.95.15:8004/play/a039
-#EXTINF:-1,TV Cultura
-http://206.1.95.15:8004/play/a02o
-#EXTINF:-1,TV CÐmara
-http://206.1.95.15:8004/play/a033
-#EXTINF:-1,TV JustiĿa
-http://206.1.95.15:8004/play/a031
-#EXTINF:-1,TV Novo Tempo
-http://206.1.95.15:8004/play/a04z
-#EXTINF:-1,TV Novo Tempo
-http://206.1.95.15:8004/play/a053
-#EXTINF:-1,TV RÆ tim bum
-http://206.1.95.15:8004/play/a03j
-#EXTINF:-1,TV Senado
-http://206.1.95.15:8004/play/a032
-#EXTINF:-1,TV Tem Bauru
-http://206.1.95.15:8004/play/a05a
-#EXTINF:-1,TV Tem Sorocaba
-http://206.1.95.15:8004/play/a059
-#EXTINF:-1,TV Tribuna Santos
-http://206.1.95.15:8004/play/a058
-#EXTINF:-1,TV5 Monde
-http://206.1.95.15:8004/play/a02k
-#EXTINF:-1,TVE
-http://206.1.95.15:8004/play/a01b
-#EXTINF:-1,Telecine Action
-http://206.1.95.15:8004/play/a017
-#EXTINF:-1,Telecine Cult
-http://206.1.95.15:8004/play/a029
-#EXTINF:-1,Telecine Pipoca
-http://206.1.95.15:8004/play/a02t
-#EXTINF:-1,Telecine Premium
-http://206.1.95.15:8004/play/a00i
-#EXTINF:-1,Telecine Touch
-http://206.1.95.15:8004/play/a00j
-#EXTINF:-1,Terra Viva
-http://206.1.95.15:8004/play/a03k
-#EXTINF:-1,The History Channel
-http://206.1.95.15:8004/play/a04r
-#EXTINF:-1,Tooncast
-http://206.1.95.15:8004/play/a00p
-#EXTINF:-1,TruTV
-http://206.1.95.15:8004/play/a00m
-#EXTINF:-1,Universal TV
-http://206.1.95.15:8004/play/a02j
-#EXTINF:-1,Woohoo
-http://206.1.95.15:8004/play/a01t
-#EXTINF:-1,ZooMoo
-http://206.1.95.15:8004/play/a00t
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7a25fa0eb158ef4684e67222597beb97.png" group-title="CANAIS: HD",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16748
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ca03558ddf31e54c4aba5eb9b57bb8e9.png" group-title="CANAIS: HD",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16693
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b58e0897f88cebded4072b5c8be3f1f4.png" group-title="CANAIS: HD",DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16705
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16704
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16702
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: HD",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16708
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: HD",SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16753
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16712
+#EXTINF:-1 tvg-id="" tvg-name="Space HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS: HD",Space HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16750
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigao Discovery HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16736
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b9f0809d0a94506609f85aa235fe96d1.png" group-title="CANAIS: HBO",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31462
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: HD",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16746
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16760
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png" group-title="CANAIS: HD",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16711
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CANAIS: HD",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16761
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD",H2 HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16733
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16695
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: HD",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16749
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0f50ea97d17d93715352ee21bdad2a58.png" group-title="CANAIS: HD",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16730
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/33561003f44d374c719506bef4faeba4.png" group-title="CANAIS: HD",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16700
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: HD",Combate HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16703
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31460
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31465
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16756
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: HD",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16758
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31583
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: HD",ESPN 3
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16725
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16757
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS: HD",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/16716
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: 4K ",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31034
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31148
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31278
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c83d02fd8ea1316a722a3956803e66df.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31473
+#EXTINF:-1 tvg-id="Example" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FHD
+http://xcui.vitvabc.xyz:8880/287994003411/287994003411/31593
