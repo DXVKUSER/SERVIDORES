@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://lishb.com:8080/xmltv.php?username=7924193672&password=8245089073"
 #EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
 http://lishb.com:8080/7924193672/8245089073/925583
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://lishb.com:8080/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CANAIS FILMES",A&E FHD
