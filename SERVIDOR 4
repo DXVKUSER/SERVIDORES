@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imgur.com/MYWXE5U.png" group-title="CANAIS | FILMES E SÃ‰RIES",A&E FHD
 http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/107813.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÃ‰RIES",A&E FHD (H265)
