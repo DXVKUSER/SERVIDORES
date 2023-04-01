@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w600_and_h900_bestv2/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg?resize=250%2C350&ssl=1" group-title="CANAIS | GLOBO",Pânico 6 
-plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:832b2ae412b51e89b0dcd6a6b3303bba28513fe9
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
+plugin://plugin.video.torrest/play_url?url=magnet:?xt=urn:btih:832b2ae412b51e89b0dcd6a6b3303bba28513fe9&dn=Scream.VI.2023.1080p.HDCAM.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",TESTE
 http://sukitam.bccdn.xyz:80/5478627347829pw/78782385893pw/714
