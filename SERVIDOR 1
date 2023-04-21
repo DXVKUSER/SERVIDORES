@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER MARIO BROS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="[24H] SUPER MARIO BROS",[24H] SUPER MARIO BROS
+http://ncw.one:80/Lucasclesy/lu20cas20/98686
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 FHD" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="BBB 23",BBB 23 FHD
 http://dns.acaidopara.net:8080/eduardo0203/92893884Ser/894022
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 FHDR" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="BBB 23",BBB 23 FHDR
