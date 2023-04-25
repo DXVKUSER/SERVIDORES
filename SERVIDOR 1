@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DAZN F1 SD" tvg-name="DAZN F1 SD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="DAZN F1 FHD",DAZN F1 SD
+http://mlefishing.es:2086/maxi/maxi/103
+#EXTINF:-1 tvg-id="DAZN F1 FHD" tvg-name="DAZN F1 FHD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="DAZN F1 FHD",DAZN F1 FHD
+http://mlefishing.es:2086/maxi/maxi/104
 #EXTINF:-1 tvg-id="Like.br" tvg-name="+ FAMILIA FHD²" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="Canais | Abertos",+ FAMILIA FHD²
 http://p23.miami:80/100388/10002000/181997
 #EXTINF:-1 tvg-id="Like.br" tvg-name="+ FAMILIA HD²" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="Canais | Abertos",+ FAMILIA HD²
