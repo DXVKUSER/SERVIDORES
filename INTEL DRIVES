@@ -2,3 +2,6 @@ sudo apt-get update
 sudo apt-get install --reinstall intel-media-va-driver:amd64
 
 sudo apt-get install --reinstall $(dpkg -l | grep ^ii | grep -i intel | awk '{print $2}')
+
+sudo pacman -S base-devel solved
+
