@@ -5,3 +5,6 @@ sudo apt-get install --reinstall $(dpkg -l | grep ^ii | grep -i intel | awk '{pr
 
 sudo pacman -S base-devel solved
 
+LIBVA_DRIVER_NAME=iHD in /etc/environment
+LIBVA_DRIVER_NAME=i965 in /etc/environment
+
