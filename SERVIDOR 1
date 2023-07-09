@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS || 24H",FIPe TV
+#EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="https://tv.seegfibras.com.br/logo/1688680460.7655616.png" group-title="CANAIS || 24H",FIPe TV
 https://tv.seegfibras.com.br/media/n/BZiZntmWy2GYmJu0nZCW/a/BZiZntmWy2GYmJu0nZCW/720p/chunks.m3u8?ch=BZiZntmWy2GYmJu0nZCW&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE2ODg3NzgwNjYiLCJpYXQiOjE2ODg5MzE1ODAsImV4cCI6MTY4ODk0OTU4MH0.qCS1c1Fnh42YVQ5f4FAj1sVdJY768Xpyq-AvEvxg-cI
-#EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS || 24H",24h 3 Palavrinhas
-http://piglo.re:80/Gu49755863/To49755863/53900
+#EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="https://tv.seegfibras.com.br/logo/1600282781.361004.png" group-title="CANAIS || 24H",Seeg TV
+https://tv.seegfibras.com.br/media/n/BZiZntmWy2G1ntGYmZK/a/BZiZntmWy2G1ntGYmZK/720p/chunks.m3u8?ch=BZiZntmWy2G1ntGYmZK&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE2ODg3NzgwNjYiLCJpYXQiOjE2ODg5Mzg5MDMsImV4cCI6MTY4ODk1NjkwM30.dsxT7gHeg2jiSzDY4jOK7YkGYvs6zJJ7ur21dm4Dvfw
 #EXTINF:-1 tvg-id="" tvg-name="24h A Família Addams" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS || 24H",24h A Família Addams
 http://piglo.re:80/Gu49755863/To49755863/53901
 #EXTINF:-1 tvg-id="" tvg-name="24h A Formiga Atômica" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS || 24H",24h A Formiga Atômica
