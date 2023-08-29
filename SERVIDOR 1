@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="89 FM Rádio Rock" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",89 FM Rádio Rock
-http://s.downboot.ga:80/michael3160/iptvonline/33461
+#EXTINF:-1 tvg-id="" tvg-name="TEST TOKEN" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="TEST TOKEN",TOKEN
+http://199.231.233.82/michael3160/iptvonline/83218?token=SRUMWUVaQV8SAVdTUQEGV14ED1JQUVYIVVkOAA0DWwwCAgENAwJbVlNGHRJBTBAEB1pnXVBEDwgFUwlcGBUXS1dFO1FSEFlHBF0EAgMLQE1EQ1FZUUQPAQBYC1YDD1AOBhtGSF9WQV8SVwAEAwBATURSQEBRFFtRWj5cAUJeAV0QDQpNWl5PR18KblRXVQMPAhUCFgREGRJfEkhGDlkXVF4bRlpfRhEERAETChAKUVNTFRQWVwlAXkITQUYOFSBqEBtGXU5GBgtDDV5eEAJAFRUVFBZdFWpCUxJMFlFWD11AFV4aBhBPR10FSW9RVwwPA1RMXVsIRhIMQwlGGBUPV1xeEFdEbRMMVEYLEgALUFVWFUU=
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",A&E FHD
 http://s.downboot.ga:80/michael3160/iptvonline/139100
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [Alt]" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",A&E FHD [Alt]
