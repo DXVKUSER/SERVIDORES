@@ -140,6 +140,15 @@
 <externallink>http://liebetv.me:80/get.php?username=0212530&password=8907988&type=m3u_plus</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR orange]TESTES2[/COLOR][/B]</name>
+<thumbnail>https://vetorempilhadeiras.com.br/loja/wp-content/uploads/2021/02/d2d47e23b5.jpg</thumbnail>
+<fanart>https://filmesnseries.files.wordpress.com/2018/12/02.jpg?w=1080</fanart>
+<info>[COLOR blue]SERVIDOR TESTE[/COLOR]</info>
+<epg>http://liebetv.me/xmltv.php?username=010f0d&password=h1ln3t</epg>
+<externallink>http://facilx.top:9000/get.php?username=elielgoulartsogro&password=632938&type=m3u_plus</externallink>
+</channel>
+
 
 
 
