@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TEST TOKEN" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="TEST TOKEN",TOKEN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]USE O PLAYER[/COLOR] [COLOR red]INPUTSTREAM[/COLOR] [COLOR orange]OU[/COLOR] [COLOR blue]PROXY 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.231.233.82/michael3160/iptvonline/83264?token=SRUMWUVaQV8SVQIIV1tUVV9WWlVRUg1SBQcLBgNUB1wGDgYPVQsFVAhGHRJBTBAEB1pnXVBEDwgFUw5QGBUXS1dFO1FSEFlHBF0EAgMLQE1EQ1FZUUQPAQBYC1YDD1sPBRtGSF9WQV8SVwMGAAhATURSQEBRFFtRWj5cAUJeAV0QDQpNWl5PR18KblRXVQMPAhUCFgREGRJfEkhGDlkXVF4bRlpfRhEERAETChAKU1VVFRQWVwlAXkITQUYOFSBqEBtGXU5GBgtDDV5eEAJAFRUVFBZdFWpCUxJMFlFWD11AFV4aBhBPR10FSW9RVwwPA1RMXVsIRhIMQwlGGBUPV1xeEFdEbRMMVEYLEgMBW1BRFUU=
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",TC ACTION
+http://cdn.contentgftp.xyz:80/chrissy/chrissy/1608
+
+
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",A&E FHD
 http://s.downboot.ga:80/michael3160/iptvonline/139100
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [Alt]" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",A&E FHD [Alt]
