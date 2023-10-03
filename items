@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
+<items>
 <title>[COLOR white][B]LISTA 1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <name>makelist</name>
@@ -18,6 +18,6 @@
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
 <page></page>
-</item>
+</items>
 
 </items> 
