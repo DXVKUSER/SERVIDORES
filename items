@@ -4,7 +4,6 @@
 <item>
 <title>[COLOR white][B]LISTA 4[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
@@ -16,12 +15,8 @@
 <referer>http://www.google.com.br</referer>
 <x-forward></x-forward>
 <agent>VLC/3.0.0</agent>
-</regex>
-<regex>
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
-</regex>
 </item>
 
 </items> 
