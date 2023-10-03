@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<items>
-<title>[COLOR white][B]LISTA 1[/B][/COLOR]</title>
+<item>
+<title>[COLOR white][B]LISTA 4[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
+<regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/7a/fa/797afae4-dd72-b2d8-3ac8-ad10ce3f2e5e/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/1200x630bb.png</thumbnail>
+<thumbnail>https://i.imgur.com/9k5g7XC.png</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
 <page>http://liebetv.me:80/get.php?username=nick7437&amp;password=75325787yt&amp;type=m3u_plus&amp;output=m3u8</page>
-<referer>http://xcui.vitvabc.xyz:8880</referer>
+<referer>http://www.google.com.br</referer>
 <x-forward></x-forward>
 <agent>VLC/3.0.0</agent>
+</regex>
+<regex>
 <name>encodedurl</name>
 <expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
 <page></page>
-</items>
+</regex>
+</item>
 
 </items> 
