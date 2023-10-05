@@ -5,6 +5,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]USE 
 #EXTINF:-1 tvg-id="A Médium (2021)" tvg-name="A Médium (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg" group-title="A Médium (2021)",A Médium (2021)
 https://www.googleapis.com/drive/v3/files/17QvrLJR6kaklELbN0VT4GfJGxC3Fajws?alt=media&key=AIzaSyCHwNbjOeOem1u233TARUJSVMB0CT6clbI
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7cb0825bdf8ebaef1d4ca083516e45d3.jpg" group-title="Filmes @ Terror",A Freira 2 (2023)
+http://esrv.cc:80/movie/maquegod/126900Ah/106736.mp4
+
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://loopstatic.net/ae.png" group-title=" Canais | Variedades",A&E FHD
 http://s.downboot.ga:80/michael3160/iptvonline/139100
