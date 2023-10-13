@@ -5,7 +5,7 @@
 <name>[B][COLOR white]SERVIDOR 1 FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
 <fanart>https://i.imgur.com/hZo2Qvt.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
+<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDOR-MV/main/MV%20SERVIDOR</externallink>
 </channel>
 
@@ -13,8 +13,16 @@
 <name>[B][COLOR white]SERVIDOR 2 FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
 <fanart>https://i.imgur.com/1rS9dGC.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
+<info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDOR-MV/main/MVSERVIDOR2</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 3 FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+<fanart>https://i.imgur.com/WxlpRZW.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDOR-MV/main/MVSERVIDOR3</externallink>
 </channel>
 
 </channels>
