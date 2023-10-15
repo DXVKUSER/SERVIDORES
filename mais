@@ -6,7 +6,7 @@
 <thumbnail>https://i.imgur.com/Fk3PsKE.png</thumbnail>
 <fanart>https://i.imgur.com/3AaNWWp.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
-<externallink>http://splaytv.club/get.php?username=parnaiba01&password=09873458&type=m3u&output=ts</externallink>
+<externallink>http://splaytv.club:80/get.php?username=parnaiba01&password=09873458&type=m3u_plus</externallink>
 </channel>
   
 <channel>
