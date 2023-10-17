@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lokal" tvg-id="mncsports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",MNC Sports 1
+#EXTINF:-1 group-title="Lokal" tvg-id="mncsports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",AMC INPUTSTREAM TESTE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://38.110.1.86/nick7437/75325787yt/3705?token=TkEKBUBYEAkTBlAEUAFbBVdRBVIPAgBTCgIFAgJUVVQEVgdVA1EKVwUWH0QVRUpSVV5qWlITCQMFAFNKEENCUEc8CwARChAHBgcDX1ETFBVAWlhWFAsCBgsHU1YEDgcMGUESDVcSCBEHDAFQRB0aUkxHUEFYUF9vVlUQD1FTEw9bFg4IHxJdXW5QVgsHX1wVDhEFERoTWkNCElxEcVpeQFEFDgVBVR4TeFpQSEQdGlVdR0dSQlQRChABXlILFB0XVgwXCkdCSxELFmY1RB0aUkxHUF1FWFxeEApEEkEUHRdcED0WVkNGQVRVXgMUEwIVBBEZEVtQS29RXwgIV1VFXFoNEUYJEgMRHRZeCQhYTFhGbEVaUhMJEgQCU1cQSw==
+#EXTVLCOPT:http-referrer=http://liebetv.me
+http://liebetv.me:80/nick7437/75325787yt/3705
 #EXTINF:-1 group-title="Lokal" tvg-id="mncsports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",MNC Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
