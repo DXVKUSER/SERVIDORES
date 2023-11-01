@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | Peggy Gou", Peggy Gou - (It Goes Like) Nanana
-plugin://plugin.video.anonym_player?url=http://bccdn.xyz:80/nii5jn8d/gz6su0qk/4
+http://bccdn.xyz:80/live/nii5jn8d/gz6su0qk/4.ts
 #EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO", GLOBO SP FHD H265
 http://bccdn.xyz:80/nii5jn8d/gz6su0qk/714
 #EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO", GLOBO SP HD
