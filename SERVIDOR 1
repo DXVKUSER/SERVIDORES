@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24" tvg-logo="" group-title="BBB 24",BBB 24
+http://78.159.119.122:2082/Tourobox1-YkvBMC0Yb9/VadpL8YWCT/1249
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" tvg-name="A&E 4K" group-title="FILMES & SERIES",A&E 4K
 http://78.159.119.122:2082/Tourobox1-YkvBMC0Yb9/VadpL8YWCT/225
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-logo="" tvg-name="AMC 4K" group-title="FILMES & SERIES",AMC 4K
