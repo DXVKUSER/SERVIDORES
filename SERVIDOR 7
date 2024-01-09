@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="http://p6.vc/AXJM" group-title="Canais | BBB 24",BBB CAM 12
+http://pfsv.io:80/ELISIO6854/SZ7343/186207
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="http://p6.vc/AXJN" group-title="Canais | BBB 24",BBB CAM 11
+http://pfsv.io:80/ELISIO6854/SZ7343/186208
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="http://p6.vc/AXJO" group-title="Canais | BBB 24",BBB CAM 10
+http://pfsv.io:80/ELISIO6854/SZ7343/186209
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="http://p6.vc/AXJP" group-title="Canais | BBB 24",BBB CAM 9
+http://pfsv.io:80/ELISIO6854/SZ7343/186210
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="http://p6.vc/AXJQ" group-title="Canais | BBB 24",BBB CAM 8
+http://pfsv.io:80/ELISIO6854/SZ7343/186211
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="http://p6.vc/AXJR" group-title="Canais | BBB 24",BBB CAM 7
+http://pfsv.io:80/ELISIO6854/SZ7343/186212
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="http://p6.vc/AXJS" group-title="Canais | BBB 24",BBB CAM 6
+http://pfsv.io:80/ELISIO6854/SZ7343/186213
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="http://p6.vc/AXJT" group-title="Canais | BBB 24",BBB CAM 5
+http://pfsv.io:80/ELISIO6854/SZ7343/186214
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="http://p6.vc/AXJU" group-title="Canais | BBB 24",BBB CAM 4
+http://pfsv.io:80/ELISIO6854/SZ7343/186215
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="http://p6.vc/AXJV" group-title="Canais | BBB 24",BBB CAM 3
+http://pfsv.io:80/ELISIO6854/SZ7343/186216
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="http://p6.vc/AXKO" group-title="Canais | BBB 24",BBB CAM 2
+http://pfsv.io:80/ELISIO6854/SZ7343/186217
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="http://p6.vc/AXKP" group-title="Canais | BBB 24",BBB CAM 1
+http://pfsv.io:80/ELISIO6854/SZ7343/186218
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD MOSAICO" tvg-logo="http://p6.vc/AXKQ" group-title="Canais | BBB 24",BBB HD MOSAICO
+http://pfsv.io:80/ELISIO6854/SZ7343/186219
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 Mosaico SD" tvg-logo="http://p6.vc/AXLE" group-title="Canais | BBB 24",BBB 24 Mosaico SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186233
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Vidro BBB 23 SD" tvg-logo="http://p6.vc/AXLF" group-title="Canais | BBB 24",Casa de Vidro BBB 23 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186234
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 11 SD" tvg-logo="http://p6.vc/AXLG" group-title="Canais | BBB 24",BBB Cam 11 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186235
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10 SD" tvg-logo="http://p6.vc/AXLH" group-title="Canais | BBB 24",BBB Cam 10 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186236
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9 SD" tvg-logo="http://p6.vc/AXLI" group-title="Canais | BBB 24",BBB Cam 9 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186237
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8 SD" tvg-logo="http://p6.vc/AXLJ" group-title="Canais | BBB 24",BBB Cam 8 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186238
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7 SD" tvg-logo="http://p6.vc/AXLK" group-title="Canais | BBB 24",BBB Cam 7 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186239
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6 SD" tvg-logo="http://p6.vc/AXLL" group-title="Canais | BBB 24",BBB Cam 6 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186240
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5 SD" tvg-logo="http://p6.vc/AXLM" group-title="Canais | BBB 24",BBB Cam 5 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186241
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4 SD" tvg-logo="http://p6.vc/AXLN" group-title="Canais | BBB 24",BBB Cam 4 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186242
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3 SD" tvg-logo="http://p6.vc/AXLO" group-title="Canais | BBB 24",BBB Cam 3 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186243
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2 SD" tvg-logo="http://p6.vc/AXLP" group-title="Canais | BBB 24",BBB Cam 2 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186244
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1 SD" tvg-logo="http://p6.vc/AXLQ" group-title="Canais | BBB 24",BBB Cam 1 SD
+http://pfsv.io:80/ELISIO6854/SZ7343/186245
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Vidro BBB 24 HD" tvg-logo="http://p6.vc/AXLR" group-title="Canais | BBB 24",Casa de Vidro BBB 24 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186246
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="http://p6.vc/AXLS" group-title="Canais | BBB 24",BBB Mosaico HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186247
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 11 HD" tvg-logo="http://p6.vc/AXLT" group-title="Canais | BBB 24",BBB Cam 11 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186248
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10 HD" tvg-logo="http://p6.vc/AXLU" group-title="Canais | BBB 24",BBB Cam 10 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186249
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9 HD" tvg-logo="http://p6.vc/AXLV" group-title="Canais | BBB 24",BBB Cam 9 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186250
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8 HD" tvg-logo="http://p6.vc/AXLW" group-title="Canais | BBB 24",BBB Cam 8 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186251
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7 HD" tvg-logo="http://p6.vc/AXLX" group-title="Canais | BBB 24",BBB Cam 7 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186252
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6 HD" tvg-logo="http://p6.vc/AXLY" group-title="Canais | BBB 24",BBB Cam 6 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186253
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5 HD" tvg-logo="http://p6.vc/AXLZ" group-title="Canais | BBB 24",BBB Cam 5 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186254
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4 HD" tvg-logo="http://p6.vc/AXMA" group-title="Canais | BBB 24",BBB Cam 4 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186255
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3 HD" tvg-logo="http://p6.vc/AXMB" group-title="Canais | BBB 24",BBB Cam 3 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186256
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2 HD" tvg-logo="http://p6.vc/AXMC" group-title="Canais | BBB 24",BBB Cam 2 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186257
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1 HD" tvg-logo="http://p6.vc/AXMD" group-title="Canais | BBB 24",BBB Cam 1 HD
+http://pfsv.io:80/ELISIO6854/SZ7343/186258
+#EXTINF:-1 tvg-id="" tvg-name="DEBATE BBB 24" tvg-logo="http://p6.vc/AXMJ" group-title="Canais | BBB 24",DEBATE BBB 24
+http://pfsv.io:80/ELISIO6854/SZ7343/186276
 #EXTINF:-1 tvg-logo="http://p6.vc/VLP" group-title="Canais | Jogos & Eventos",#EVENTOS 01
 http://pfsv.io:80/ELISIO6854/SZ7343/33377
 #EXTINF:-1 tvg-logo="http://p6.vc/VLQ" group-title="Canais | Jogos & Eventos",#EVENTOS 02
