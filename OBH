@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC Action +HD" tvg-logo="http://im.pkweb.ca:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais | Telecine",TC Action +HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://66.90.85.122:8888/live/markiviox/12306090/2097.ts?token=GUdQBEFZR1sbXQZTUwFQUgtTDQJWAVBQUgkADQIFAgEABwkAUARXUQlGHUNEQxZRWV9nXwYaD1EAAAUYRENDUhA6UQEQC0dVAFUJVBUbRkBRX10UWAgZQUBQVhZcFAICVVUMUgoTSUNcHEUERVkFWGdWXUALW1BBCldHWAoaElgMOlwAX1ALBRteE1EVG0ZdS0IaDAxNWQ8cG1BdEkRRQwdHAkcDBlxYG0gTAlhCCkBKSxoMQHpnQRwbV0wSU15ECwpWRwgTCFJMXBNNFV4Xa0pXS0IQXVQOVUsQDkQGEhtACFkdbVIKD1cBUhVeWApHGggaB0AUFw5fV1tACURvRwsBGl8QAlVSDlADQ0o=
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC Action 4K H265" tvg-logo="http://im.pkweb.ca:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais | 4K",TC Action 4K H265
