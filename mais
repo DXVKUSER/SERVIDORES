@@ -2,96 +2,91 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR orange]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM PLAYER PADRÃO DO F4MTESTER![/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM O PLAYER PADRÃO DO F4MTESTER! ATIVANDO A OPÇÃO PERGUNTAR VOCÊ TERA 3 PLAYERS PARA SEREM USADOS![/COLOR]</info>
+<externallink>http://</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 1[/COLOR][COLOR springgreen]- F4mProxy[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
-<externallink>http://tv.com.vc/get.php?username=melissa&password=melissa123&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor1</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 2[/COLOR][COLOR springgreen]- Proxy2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
-<externallink>http://tv.com.vc:80/get.php?username=rafael&password=12345&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor2</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 3[/COLOR][COLOR springgreen]- F4mProxy[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
-<externallink>http://5ce.me/get.php?username=Renan95re&password=959794re91&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor3</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 4[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 4[/COLOR][COLOR springgreen]- Proxy2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 4[/COLOR]</info>
-<externallink>http://fastuhd.xyz/get.php?username=27999135714&password=Tv135714g&type=m3u_plus&output=m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor4</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 5[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 5[/COLOR][COLOR springgreen]- Proxy2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 5[/COLOR]</info>
-<externallink>http://78.159.119.122:2095/get.php?username=suspected-TR1-ZGt9nKzAKK&password=Ejz3rd4FH2&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor5</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 6[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 6[/COLOR][COLOR springgreen]- F4mProxy[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 6[/COLOR]</info>
-<externallink> http://mn.appserv19.xyz:2095/get.php?username=Xplus-1-hwroU5VFek&password=edwXosb72E&type=m3u_plus&output=m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor6</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 7[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 7[/COLOR][COLOR springgreen]- Proxy2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 7[/COLOR]</info>
-<externallink>http://dnsbr.xyz/get.php?username=82639182&password=3792739292&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor7</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 8[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 8[/COLOR][COLOR springgreen]- F4mProxy[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 8[/COLOR]</info>
-<externallink>http://mn.appserv19.xyz:2095/get.php?username=Xplus-1-6TIgwPnuka&password=Uhpnmzmwen&type=m3u_plus&output=m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor8</externallink>
 </channel>
-  
+
 <channel>
-<name>[B][COLOR white]SERVIDOR 9[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 9[/COLOR][COLOR springgreen]- Inputstream[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 9[/COLOR]</info>
-<externallink>http://assista.live:80/get.php?username=555496521434&password=46394800&type=m3u_plus&output=m3u8</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR white]SERVIDOR 10[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 10[/COLOR]</info>
-<externallink>http://cdn.cybertv.fun:80/get.php?username=bicudo&password=123456&type=m3u_plus</externallink>
+<externallink>http://7online.xyz/get.php?username=tc8oxma323&password=mi6wax2a&type=m3u_plus&output=m3u8</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 11[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
-<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 10[/COLOR]</info>
-<externallink>http://gameplay.p2sweb.me:80/get.php?username=marina04x&password=Mar2021&type=m3u_plus&output=m3u8</externallink>
+<name>[B][COLOR white]SERVIDORES LATINOS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]LATINOS[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/TodosLatinos</externallink>
 </channel>
-  
- 
-
-
-
 
 </channels>
