@@ -1,4 +1,5 @@
-:-1 tvg-id="" tvg-name="BBB Mosaico FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6FDVXct1Vg-rlLl_6LSboDUMQPqheIDrs2PAQhvk-Cy2_LFNyrlUofkdakBGnGd7OmiQ&usqp=CAU" group-title="CANAIS | BBB24",BBB Mosaico FHD
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6FDVXct1Vg-rlLl_6LSboDUMQPqheIDrs2PAQhvk-Cy2_LFNyrlUofkdakBGnGd7OmiQ&usqp=CAU" group-title="CANAIS | BBB24",BBB Mosaico HDD
 http://meumd.com:80/live/Marta2023/Marta2023/254775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6FDVXct1Vg-rlLl_6LSboDUMQPqheIDrs2PAQhvk-Cy2_LFNyrlUofkdakBGnGd7OmiQ&usqp=CAU" group-title="CANAIS | BBB24",BBB Mosaico HD
 http://meumd.com:80/live/Marta2023/Marta2023/254774.m3u8
