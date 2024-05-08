@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sQV39uW.jpg" tvg-name="Web Rádio Fantasma" group-title="Rádios",Web Rádio Fantasma
+http://uk12freenew.listen2myradio.com:35348/;?type=http&nocache=5
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CnB6s3M.png" tvg-name="Rock To You" group-title="Rádios",Rock To You
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]DEIVID CINE [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://srv.cldplay.in:80/WV8qjG/W3NzNG/141040
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CnB6s3M.png" tvg-name="Edmonton CHEDAM" group-title="Rádios",Edmonton CHEDAM
