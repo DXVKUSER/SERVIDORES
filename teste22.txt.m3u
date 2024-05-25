@@ -1,0 +1,1251 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Max 01" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="Stream :: ESPORTES", Max 01
+http://dns.maxptv.net:2052/live/max885/992801057/47759.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Max 02" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="Stream :: ESPORTES", Max 02
+http://dns.maxptv.net:2052/live/max885/992801057/47761.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Max 03" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="Stream :: ESPORTES", Max 03
+http://dns.maxptv.net:2052/live/max885/992801057/47760.m3u8
+#EXTINF: -1 tvg-name="Max 04" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="Stream :: ESPORTES", Max 04
+http://dns.maxptv.net:2052/live/max885/992801057/139896.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cazé Tv 1 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/caze.png" group-title="Stream :: ESPORTES", Cazé Tv 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/137974.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cazé Tv 2 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/caze.png" group-title="Stream :: ESPORTES", Cazé Tv 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/138878.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Prime Video 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/amazonprimevideo.png" group-title="Stream :: ESPORTES", Prime Video 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/51877.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Prime Video 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/amazonprimevideo.png" group-title="Stream :: ESPORTES", Prime Video 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/51878.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Prime Video 3 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/amazonprimevideo.png" group-title="Stream :: ESPORTES", Prime Video 3 HD
+http://dns.maxptv.net:2052/live/max885/992801057/115201.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Star+ 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/starplus2.png" group-title="Stream :: ESPORTES", Star+ 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/46598.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Star+ 2 HD " tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/starplus2.png" group-title="Stream :: ESPORTES", Star+ 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/46599.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tnt Sports HD" tvg-logo="http://painelsbo.painel.life/logosnovos/Logos/Esportes/125.png" group-title="Stream :: ESPORTES", Tnt Sports HD
+http://dns.maxptv.net:2052/live/max885/992801057/138673.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Youtube Tv 1" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/youtube.png" group-title="Stream :: ESPORTES", Youtube Tv 1
+http://dns.maxptv.net:2052/live/max885/992801057/139330.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Canal Goat 1" tvg-logo="https://www.amstelbrasil.com/media/lhpncn0f/imagem-lateral_parceira-goat.png" group-title="Stream :: ESPORTES", Canal Goat 1
+http://dns.maxptv.net:2052/live/max885/992801057/139719.m3u8
+#EXTINF: -1 tvg-id="DUBAISP" tvg-name="Dubai Sports 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/dubai.png" group-title="Stream :: ESPORTES", Dubai Sports 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/51871.m3u8
+#EXTINF: -1 tvg-id="DUBAISP" tvg-name="Dubai Sports 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/dubai.png" group-title="Stream :: ESPORTES", Dubai Sports 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/51872.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tv Real Madri HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/eal.png" group-title="Stream :: ESPORTES", Tv Real Madri HD
+http://dns.maxptv.net:2052/live/max885/992801057/138331.m3u8
+#EXTINF: -1 tvg-name="Canal Goat 3" tvg-logo="https://www.amstelbrasil.com/media/lhpncn0f/imagem-lateral_parceira-goat.png" group-title="Stream :: ESPORTES", Canal Goat 3
+http://dns.maxptv.net:2052/live/max885/992801057/141386.m3u8
+#EXTINF: -1 tvg-name="Canal Goat 2" tvg-logo="https://www.amstelbrasil.com/media/lhpncn0f/imagem-lateral_parceira-goat.png" group-title="Stream :: ESPORTES", Canal Goat 2
+http://dns.maxptv.net:2052/live/max885/992801057/141387.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="24h I Chaves " tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/153.png" group-title="24H ::: INFANTIL", 24h I Chaves
+http://dns.maxptv.net:2052/live/max885/992801057/40813.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="24h I Chaves Desenho" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/152.png" group-title="24H ::: INFANTIL", 24h I Chaves Desenho
+http://dns.maxptv.net:2052/live/max885/992801057/40818.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Mansão Foster para Amigos Imaginários" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/mansaoforest.png" group-title="24H ::: INFANTIL", A Mansão Foster para Amigos Imaginários
+http://dns.maxptv.net:2052/live/max885/992801057/71667.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Pantera Cor de Rosa" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/panterarosa.png" group-title="24H ::: INFANTIL", A Pantera Cor de Rosa
+http://dns.maxptv.net:2052/live/max885/992801057/113089.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Pequena Sereia (1992)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/136.png" group-title="24H ::: INFANTIL", A Pequena Sereia (1992)
+http://dns.maxptv.net:2052/live/max885/992801057/49724.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Vaca e o Frango" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/avacaeofrango.png" group-title="24H ::: INFANTIL", A Vaca e o Frango
+http://dns.maxptv.net:2052/live/max885/992801057/71665.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Aladdin (1994)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/138.png" group-title="24H ::: INFANTIL", Aladdin (1994)
+http://dns.maxptv.net:2052/live/max885/992801057/42939.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Jackie Chan (2000)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/139.png" group-title="24H ::: INFANTIL", As Aventuras de Jackie Chan (2000)
+http://dns.maxptv.net:2052/live/max885/992801057/49715.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Meninas Super Poderosas" tvg-logo="http://srv.maxptv.net:8080/images/34aac5ee5fa607fcd7dcbd89c6123e4f.png" group-title="24H ::: INFANTIL", As Meninas Super Poderosas
+http://dns.maxptv.net:2052/live/max885/992801057/86067.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Baby Looney Tunes" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/babylooneytoones.png" group-title="24H ::: INFANTIL", Baby Looney Tunes
+http://dns.maxptv.net:2052/live/max885/992801057/71663.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Baby Looney Tunes (2002)" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/babylooneytoones.png" group-title="24H ::: INFANTIL", Baby Looney Tunes (2002)
+http://dns.maxptv.net:2052/live/max885/992801057/42942.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman do Futuro" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/batmanfuturo.png" group-title="24H ::: INFANTIL", Batman do Futuro
+http://dns.maxptv.net:2052/live/max885/992801057/71661.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman: 2004" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/batman2004.png" group-title="24H ::: INFANTIL", Batman: 2004
+http://dns.maxptv.net:2052/live/max885/992801057/71659.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman: A Série Animada" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/batmanseries.png" group-title="24H ::: INFANTIL", Batman: A Série Animada
+http://dns.maxptv.net:2052/live/max885/992801057/71657.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman: Novas Aventuras" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/batmannovasaventuras.png" group-title="24H ::: INFANTIL", Batman: Novas Aventuras
+http://dns.maxptv.net:2052/live/max885/992801057/113088.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 Omniverse (2012)" tvg-logo="http://srv.maxptv.net:8080/images/4f720cc0c101f3774fb8e7a32b2e8129.png" group-title="24H ::: INFANTIL", Ben 10 Omniverse (2012)
+http://dns.maxptv.net:2052/live/max885/992801057/86073.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 Supremacia Alienigena (2010)" tvg-logo="http://srv.maxptv.net:8080/images/07161e6d1c17e2503fb68fa0cbe839b6.png" group-title="24H ::: INFANTIL", Ben 10 Supremacia Alienigena (2010)
+http://dns.maxptv.net:2052/live/max885/992801057/86074.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bob Esponja 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/147.png" group-title="24H ::: INFANTIL", Bob Esponja 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40793.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bob Esponja: Canal 1" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/bobsponja.png" group-title="24H ::: INFANTIL", Bob Esponja: Canal 1
+http://dns.maxptv.net:2052/live/max885/992801057/113087.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CatDog" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/catdog.png" group-title="24H ::: INFANTIL", CatDog
+http://dns.maxptv.net:2052/live/max885/992801057/113086.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Caverna do Dragão" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/149.png" group-title="24H ::: INFANTIL", Caverna do Dragão
+http://dns.maxptv.net:2052/live/max885/992801057/46512.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ  Saga de Poseidon 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ  Saga de Poseidon 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40809.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ  Saga de Poseidon 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ  Saga de Poseidon 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40787.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga de Asgard 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ Saga de Asgard 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40788.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga de Hades 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ Saga de Hades 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40811.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga de Hades 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ Saga de Hades 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40789.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga do Santuario  24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ Saga do Santuario  24H
+http://dns.maxptv.net:2052/live/max885/992801057/40812.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga do Santuario  24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24H ::: INFANTIL", CDZ Saga do Santuario  24H
+http://dns.maxptv.net:2052/live/max885/992801057/40790.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Chapolin 2 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/chapolin.png" group-title="24H ::: INFANTIL", Chapolin 2 24H
+http://dns.maxptv.net:2052/live/max885/992801057/19541.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Chaves 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/153.png" group-title="24H ::: INFANTIL", Chaves 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40791.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Chaves Desenho 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/152.png" group-title="24H ::: INFANTIL", Chaves Desenho 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40798.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Coragem o Cão Covarde" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/coragem.png" group-title="24H ::: INFANTIL", Coragem o Cão Covarde
+http://dns.maxptv.net:2052/live/max885/992801057/113085.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Corrida Maluca" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/corridamaluca.png" group-title="24H ::: INFANTIL", Corrida Maluca
+http://dns.maxptv.net:2052/live/max885/992801057/113079.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Desenhos Clássicos" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/desenhosclassicos.png" group-title="24H ::: INFANTIL", Desenhos Clássicos
+http://dns.maxptv.net:2052/live/max885/992801057/113066.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dick Vigarista" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/dick.png" group-title="24H ::: INFANTIL", Dick Vigarista
+http://dns.maxptv.net:2052/live/max885/992801057/113084.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball GT 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball GT 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40804.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Super 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball Super 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40799.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball X Freeza 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball X Freeza 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40800.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Androides 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball Z Androides 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40801.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Cell 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball Z Cell 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40802.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Sayajins 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: INFANTIL", Dragon Ball Z Sayajins 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40803.m3u8
+#EXTINF: -1 tvg-id="Duck Tales 24H" tvg-name="Duck Tales" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/duckthales.png" group-title="24H ::: INFANTIL", Duck Tales
+http://dns.maxptv.net:2052/live/max885/992801057/113083.m3u8
+#EXTINF: -1 tvg-id="Duck Tales 24H" tvg-name="Ducktales 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/162.png" group-title="24H ::: INFANTIL", Ducktales 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40805.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Familia da Pesada 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/163.png" group-title="24H ::: INFANTIL", Familia da Pesada 24H
+http://dns.maxptv.net:2052/live/max885/992801057/1481.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Familia Dinossauro  24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/164.png" group-title="24H ::: INFANTIL", Familia Dinossauro  24H
+http://dns.maxptv.net:2052/live/max885/992801057/569.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Freakazoid" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/freakzoide.png" group-title="24H ::: INFANTIL", Freakazoid
+http://dns.maxptv.net:2052/live/max885/992801057/113082.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Futurama" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/futurama.png" group-title="24H ::: INFANTIL", Futurama
+http://dns.maxptv.net:2052/live/max885/992801057/113064.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/166.png" group-title="24H ::: INFANTIL", Galinha Pintadinha 24H
+http://dns.maxptv.net:2052/live/max885/992801057/1476.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Johnny Bravo (1997)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/173.png" group-title="24H ::: INFANTIL", Johnny Bravo (1997)
+http://dns.maxptv.net:2052/live/max885/992801057/42938.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Kick Buttowski: Um Projeto de Dublê" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/kickduble.png" group-title="24H ::: INFANTIL", Kick Buttowski: Um Projeto de Dublê
+http://dns.maxptv.net:2052/live/max885/992801057/113077.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Kim Possible (2002)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/175.png" group-title="24H ::: INFANTIL", Kim Possible (2002)
+http://dns.maxptv.net:2052/live/max885/992801057/42935.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="KND - A Turma do Bairro" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/kndbairro.png" group-title="24H ::: INFANTIL", KND - A Turma do Bairro
+http://dns.maxptv.net:2052/live/max885/992801057/113076.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Mr. Pickles" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/mrpicles.png" group-title="24H ::: INFANTIL", Mr. Pickles
+http://dns.maxptv.net:2052/live/max885/992801057/113065.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Mucha Lucha (2002)" tvg-logo="http://srv.maxptv.net:8080/images/78c8c0adf65c73186facd09396b67e4f.png" group-title="24H ::: INFANTIL", Mucha Lucha (2002)
+http://dns.maxptv.net:2052/live/max885/992801057/86090.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Mundo de Gunball 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/183.png" group-title="24H ::: INFANTIL", Mundo de Gunball 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40807.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Mundo de Gunball 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/183.png" group-title="24H ::: INFANTIL", Mundo de Gunball 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40785.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Naruto 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/186.png" group-title="24H ::: INFANTIL", Naruto 24H
+http://dns.maxptv.net:2052/live/max885/992801057/564.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Laboratório de Dexter (1996)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/189.png" group-title="24H ::: INFANTIL", O Laboratório de Dexter (1996)
+http://dns.maxptv.net:2052/live/max885/992801057/49781.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Show da Luna (2014)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/192.png" group-title="24H ::: INFANTIL", O Show da Luna (2014)
+http://dns.maxptv.net:2052/live/max885/992801057/49801.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Flinstons" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/flintones.png" group-title="24H ::: INFANTIL", Os Flinstons
+http://dns.maxptv.net:2052/live/max885/992801057/113075.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Jovens Titas (2003)" tvg-logo="http://srv.maxptv.net:8080/images/4a59c56d6ee17ee19b4012bd3b342429.png" group-title="24H ::: INFANTIL", Os Jovens Titas (2003)
+http://dns.maxptv.net:2052/live/max885/992801057/86096.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Padrinhos Magicos (2001)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/196.png" group-title="24H ::: INFANTIL", Os Padrinhos Magicos (2001)
+http://dns.maxptv.net:2052/live/max885/992801057/49720.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Simpsons 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/198.png" group-title="24H ::: INFANTIL", Os Simpsons 24H
+http://dns.maxptv.net:2052/live/max885/992801057/563.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Peppa Pig 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/201.png" group-title="24H ::: INFANTIL", Peppa Pig 24H
+http://dns.maxptv.net:2052/live/max885/992801057/562.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pernalonga e Sua Turma" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/pernalongaesuaturma.png" group-title="24H ::: INFANTIL", Pernalonga e Sua Turma
+http://dns.maxptv.net:2052/live/max885/992801057/113074.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pinky e o Cérebro" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/pimkecerebro.png" group-title="24H ::: INFANTIL", Pinky e o Cérebro
+http://dns.maxptv.net:2052/live/max885/992801057/113080.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pinky Felícia e o Cérebro" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/pinkfeliciaecerebro.png" group-title="24H ::: INFANTIL", Pinky Felícia e o Cérebro
+http://dns.maxptv.net:2052/live/max885/992801057/113081.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pocoyo 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/204.png" group-title="24H ::: INFANTIL", Pocoyo 24H
+http://dns.maxptv.net:2052/live/max885/992801057/561.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pokemon 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/205.png" group-title="24H ::: INFANTIL", Pokemon 24H
+http://dns.maxptv.net:2052/live/max885/992801057/560.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Projeto Zeta" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/projetozeta.png" group-title="24H ::: INFANTIL", Projeto Zeta
+http://dns.maxptv.net:2052/live/max885/992801057/113073.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Samurai Jack (2001)" tvg-logo="http://srv.maxptv.net:8080/images/e46a811a6d07eb8c1cfdf492337399e8.png" group-title="24H ::: INFANTIL", Samurai Jack (2001)
+http://dns.maxptv.net:2052/live/max885/992801057/86104.m3u8
+#EXTINF: -1 tvg-id="Scooby Doo 24H" tvg-name="Scooby-Doo" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/scoob.png" group-title="24H ::: INFANTIL", Scooby-Doo
+http://dns.maxptv.net:2052/live/max885/992801057/113072.m3u8
+#EXTINF: -1 tvg-id="Scooby Doo 24H" tvg-name="Scooby-Doo e os 13 Fantasmas" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/scoob13.png" group-title="24H ::: INFANTIL", Scooby-Doo e os 13 Fantasmas
+http://dns.maxptv.net:2052/live/max885/992801057/113071.m3u8
+#EXTINF: -1 tvg-id="Scooby Doo 24H" tvg-name="Scooby-Doo: O Que Há de Novo?" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/scooboqueha.png" group-title="24H ::: INFANTIL", Scooby-Doo: O Que Há de Novo?
+http://dns.maxptv.net:2052/live/max885/992801057/113070.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/209.png" group-title="24H ::: INFANTIL", Sítio do Pica Pau Amarelo 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40817.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/209.png" group-title="24H ::: INFANTIL", Sítio do Pica Pau Amarelo 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40796.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="The Backyardigans 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/211.png" group-title="24H ::: INFANTIL", The Backyardigans 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40808.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="The Backyardigans 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/211.png" group-title="24H ::: INFANTIL", The Backyardigans 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40786.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ThunderCats 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/212.png" group-title="24H ::: INFANTIL", ThunderCats 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/40815.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ThunderCats 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/212.png" group-title="24H ::: INFANTIL", ThunderCats 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/40794.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tico e Teco e os Defensores da Lei" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/ticoteco.png" group-title="24H ::: INFANTIL", Tico e Teco e os Defensores da Lei
+http://dns.maxptv.net:2052/live/max885/992801057/113068.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tom & Jerry  24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/213.png" group-title="24H ::: INFANTIL", Tom & Jerry  24H
+http://dns.maxptv.net:2052/live/max885/992801057/557.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Três Espiãs Demais!" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/tresespiasdemais.png" group-title="24H ::: INFANTIL", Três Espiãs Demais!
+http://dns.maxptv.net:2052/live/max885/992801057/113067.m3u8
+#EXTINF: -1 tvg-id="A&E FHD" tvg-name="A&E FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ", A&E FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27322.m3u8
+#EXTINF: -1 tvg-id="A&E HD" tvg-name="A&E HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ", A&E HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27323.m3u8
+#EXTINF: -1 tvg-id="A&E SD" tvg-name="A&E SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ", A&E SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27324.m3u8
+#EXTINF: -1 tvg-id="AXN HD" tvg-name="AXN FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ", AXN FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27319.m3u8
+#EXTINF: -1 tvg-id="AXN HD" tvg-name="AXN HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ", AXN HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27320.m3u8
+#EXTINF: -1 tvg-id="AXN SD" tvg-name="AXN SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ", AXN SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27321.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ", Canal Brasil FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27327.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ", Canal Brasil HD
+http://dns.maxptv.net:2052/live/max885/992801057/111747.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ", Canal Brasil SD
+http://dns.maxptv.net:2052/live/max885/992801057/111748.m3u8
+#EXTINF: -1 tvg-id="SonyChannel.br" tvg-name="Canal Sony FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ", Canal Sony FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27370.m3u8
+#EXTINF: -1 tvg-id="SonyChannel.br" tvg-name="Canal Sony HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ", Canal Sony HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27345.m3u8
+#EXTINF: -1 tvg-id="SonyChannel.br" tvg-name="Canal Sony SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ", Canal Sony SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27346.m3u8
+#EXTINF: -1 tvg-id="starlife.br" tvg-name="Cinecanal FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ", Cinecanal FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27660.m3u8
+#EXTINF: -1 tvg-id="starlife.br" tvg-name="Cinecanal HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ", Cinecanal HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27661.m3u8
+#EXTINF: -1 tvg-id="starlife.br" tvg-name="Cinecanal SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ", Cinecanal SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27662.m3u8
+#EXTINF: -1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ", Comedy Central FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27367.m3u8
+#EXTINF: -1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ", Comedy Central HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27368.m3u8
+#EXTINF: -1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ", Comedy Central SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27369.m3u8
+#EXTINF: -1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ", E! HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27365.m3u8
+#EXTINF: -1 tvg-id="E! Entertainment Television SD" tvg-name="E! SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ", E! SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27366.m3u8
+#EXTINF: -1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD*" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES E SÉRIES ", Film&Arts HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27325.m3u8
+#EXTINF: -1 tvg-id="FilmArts.br" tvg-name="Film&Arts SD*" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES E SÉRIES ", Film&Arts SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27326.m3u8
+#EXTINF: -1 tvg-id="FX.br" tvg-name="FX FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ", FX FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27353.m3u8
+#EXTINF: -1 tvg-id="FX.br" tvg-name="FX HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ", FX HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27354.m3u8
+#EXTINF: -1 tvg-id="FX.br" tvg-name="FX SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ", FX SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27355.m3u8
+#EXTINF: -1 tvg-id="InvestigationDiscovery.br" tvg-name="ID FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ", ID FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27350.m3u8
+#EXTINF: -1 tvg-id="InvestigationDiscovery.br" tvg-name="ID HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ", ID HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27351.m3u8
+#EXTINF: -1 tvg-id="InvestigationDiscovery.br" tvg-name="ID SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ", ID SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27352.m3u8
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ", Lifetime FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27347.m3u8
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="Lifetime HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ", Lifetime HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27348.m3u8
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="Lifetime SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ", Lifetime SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27349.m3u8
+#EXTINF: -1 tvg-id="Star Channel FHD" tvg-name="Star Channel FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ", Star Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27364.m3u8
+#EXTINF: -1 tvg-id="Star Channel HD" tvg-name="Star Channel HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ", Star Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27363.m3u8
+#EXTINF: -1 tvg-id="Star Channel SD" tvg-name="Star Channel SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ", Star Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27356.m3u8
+#EXTINF: -1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD*" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ", Studio Universal HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27337.m3u8
+#EXTINF: -1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD*" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ", Studio Universal SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27338.m3u8
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="USA Network FHD*" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ", USA Network FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27339.m3u8
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="USA Network HD*" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ", USA Network HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27340.m3u8
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="USA Network SD*" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ", USA Network SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27341.m3u8
+#EXTINF: -1 tvg-id="TNTSeries.br" tvg-name="TNT Séries FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ", TNT Séries FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27334.m3u8
+#EXTINF: -1 tvg-id="TNTSeries.br" tvg-name="TNT Séries HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ", TNT Séries HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27335.m3u8
+#EXTINF: -1 tvg-id="TNTSeries.br" tvg-name="TNT Séries SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ", TNT Séries SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27336.m3u8
+#EXTINF: -1 tvg-id="Universal Channel FHD" tvg-name="Universal Channel FHD*" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ", Universal Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27331.m3u8
+#EXTINF: -1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD*" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ", Universal Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27332.m3u8
+#EXTINF: -1 tvg-id="Universal Channel SD" tvg-name="Universal Channel SD*" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ", Universal Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27333.m3u8
+#EXTINF: -1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ", Warner Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27330.m3u8
+#EXTINF: -1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ", Warner Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27328.m3u8
+#EXTINF: -1 tvg-id="Warner Channel SD" tvg-name="Warner Channel SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ", Warner Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27329.m3u8
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ", TNT Novelas HD
+http://dns.maxptv.net:2052/live/max885/992801057/122056.m3u8
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ", TNT Novelas SD
+http://dns.maxptv.net:2052/live/max885/992801057/122057.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Aeroporto Area Restrita USA" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/aeroportousa.png" group-title="24H ::: DISCOVERY+ ", Aeroporto Area Restrita USA
+http://dns.maxptv.net:2052/live/max885/992801057/113092.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Crimes que Viralizaram" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/crimesqueviralizaram.png" group-title="24H ::: DISCOVERY+ ", Crimes que Viralizaram
+http://dns.maxptv.net:2052/live/max885/992801057/113029.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Investigação Extraterrestre " tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/investextra.png" group-title="24H ::: DISCOVERY+ ", Investigação Extraterrestre
+http://dns.maxptv.net:2052/live/max885/992801057/113025.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados S01" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/largadosepelados.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados S01
+http://dns.maxptv.net:2052/live/max885/992801057/51879.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados S02" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/largadosepelados.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados S02
+http://dns.maxptv.net:2052/live/max885/992801057/51880.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados S03" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/largadosepelados.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados S03
+http://dns.maxptv.net:2052/live/max885/992801057/51881.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados S04" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/largadosepelados.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados S04
+http://dns.maxptv.net:2052/live/max885/992801057/51882.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados: Sozinhos" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/largadossozinhos.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados: Sozinhos
+http://dns.maxptv.net:2052/live/max885/992801057/113027.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Muquiranas" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/muqyuiranas.png" group-title="24H ::: DISCOVERY+ ", Muquiranas
+http://dns.maxptv.net:2052/live/max885/992801057/113090.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="No Rastro do Pé-Grande" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/pegrande.png" group-title="24H ::: DISCOVERY+ ", No Rastro do Pé-Grande
+http://dns.maxptv.net:2052/live/max885/992801057/113026.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Misterioso Triângulo Do Alasca " tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/trianguloalaska.png" group-title="24H ::: DISCOVERY+ ", O Misterioso Triângulo Do Alasca
+http://dns.maxptv.net:2052/live/max885/992801057/113028.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Vídeos Paranormais" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/videosparanormais.png" group-title="24H ::: DISCOVERY+ ", Vídeos Paranormais
+http://dns.maxptv.net:2052/live/max885/992801057/113091.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados, Pelados e Solitarios" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/solitarios.png" group-title="24H ::: DISCOVERY+ ", Pelados e Solitarios
+http://dns.maxptv.net:2052/live/max885/992801057/127361.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados, Pelados e Congelados" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/congelados.png" group-title="24H ::: DISCOVERY+ ", Pelados e Congelados
+http://dns.maxptv.net:2052/live/max885/992801057/127362.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados, Pelados e Apaixonados" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/apaixonados.png" group-title="24H ::: DISCOVERY+ ", Pelados e Apaixonados
+http://dns.maxptv.net:2052/live/max885/992801057/127363.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Largados e Pelados Latinos" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/latinos.png" group-title="24H ::: DISCOVERY+ ", Largados e Pelados Latinos
+http://dns.maxptv.net:2052/live/max885/992801057/127364.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Operação Fronteira" tvg-logo="http://ipstream1.dyndns.biz/images/i-4WkDVS0B-LVrWQVBRE151nUDnZvaibsJba7kvZV7zQfnfBfzPAivMr49gN8iL7wBRi10FzUkhZs_8To0hgWA.png" group-title="24H ::: DISCOVERY+ ", Operação Fronteira
+http://dns.maxptv.net:2052/live/max885/992801057/129975.m3u8
+#EXTINF: -1 tvg-id="agromais.br" tvg-name="AgroMais HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ", AgroMais HD
+http://dns.maxptv.net:2052/live/max885/992801057/48331.m3u8
+#EXTINF: -1 tvg-id="agromais.br" tvg-name="AgroMais SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ", AgroMais SD
+http://dns.maxptv.net:2052/live/max885/992801057/48332.m3u8
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ", Band News HD
+http://dns.maxptv.net:2052/live/max885/992801057/224.m3u8
+#EXTINF: -1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ", Band News SD
+http://dns.maxptv.net:2052/live/max885/992801057/223.m3u8
+#EXTINF: -1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ", Cnn Brasil HD
+http://dns.maxptv.net:2052/live/max885/992801057/8890.m3u8
+#EXTINF: -1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ", Cnn Brasil SD
+http://dns.maxptv.net:2052/live/max885/992801057/8891.m3u8
+#EXTINF: -1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ", GloboNews HD
+http://dns.maxptv.net:2052/live/max885/992801057/143.m3u8
+#EXTINF: -1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ", GloboNews SD
+http://dns.maxptv.net:2052/live/max885/992801057/142.m3u8
+#EXTINF: -1 tvg-id="jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ", Jovem Pan News HD
+http://dns.maxptv.net:2052/live/max885/992801057/47532.m3u8
+#EXTINF: -1 tvg-id="jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ", Jovem Pan News SD
+http://dns.maxptv.net:2052/live/max885/992801057/47533.m3u8
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ", Record News HD
+http://dns.maxptv.net:2052/live/max885/992801057/67.m3u8
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ", Record News SD
+http://dns.maxptv.net:2052/live/max885/992801057/66.m3u8
+#EXTINF: -1 tvg-id="TV Justiça SD" tvg-name="Tv Justiça" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ", Tv Justiça
+http://dns.maxptv.net:2052/live/max885/992801057/27436.m3u8
+#EXTINF: -1 tvg-id="TVJustica.br" tvg-name="Tv Justiça" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ", Tv Justiça
+http://dns.maxptv.net:2052/live/max885/992801057/23531.m3u8
+#EXTINF: -1 tvg-id="TV Senado SD" tvg-name="Tv Senado" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ", Tv Senado
+http://dns.maxptv.net:2052/live/max885/992801057/27437.m3u8
+#EXTINF: -1 tvg-id="TVSenado.br" tvg-name="Tv Senado" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ", Tv Senado
+http://dns.maxptv.net:2052/live/max885/992801057/23532.m3u8
+#EXTINF: -1 tvg-id="BM&C HD" tvg-name="BM&C HD" tvg-logo="https://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ", BM&C HD
+http://dns.maxptv.net:2052/live/max885/992801057/136109.m3u8
+#EXTINF: -1 tvg-id="BM&C HD" tvg-name="BM&C SD" tvg-logo="https://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ", BM&C SD
+http://dns.maxptv.net:2052/live/max885/992801057/136110.m3u8
+#EXTINF: -1 tvg-id="AMC HD" tvg-name="AMC HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES", AMC HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27187.m3u8
+#EXTINF: -1 tvg-id="AMC SD" tvg-name="AMC SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES", AMC SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27188.m3u8
+#EXTINF: -1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES", Cinemax FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/51393.m3u8
+#EXTINF: -1 tvg-id="Cinemax HD" tvg-name="Cinemax HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES", Cinemax HD*
+http://dns.maxptv.net:2052/live/max885/992801057/51391.m3u8
+#EXTINF: -1 tvg-id="Cinemax SD" tvg-name="Cinemax SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES", Cinemax SD*
+http://dns.maxptv.net:2052/live/max885/992801057/51392.m3u8
+#EXTINF: -1 tvg-id="Eurochannel.uk" tvg-name="Eurochannel HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/eurochannel.png" group-title="Canais :: FILMES", Eurochannel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48365.m3u8
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="Megapix HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES", Megapix HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27189.m3u8
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="Megapix SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES", Megapix SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27190.m3u8
+#EXTINF: -1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES", Paramount Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27193.m3u8
+#EXTINF: -1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES", Paramount Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27191.m3u8
+#EXTINF: -1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES", Paramount Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27192.m3u8
+#EXTINF: -1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES", Prime Box Brazil HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48369.m3u8
+#EXTINF: -1 tvg-id="Prime Box Brazil SD" tvg-name="Prime Box Brazil SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES", Prime Box Brazil SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48370.m3u8
+#EXTINF: -1 tvg-id="Space FHD" tvg-name="Space FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES", Space FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27194.m3u8
+#EXTINF: -1 tvg-id="Space HD" tvg-name="Space HD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES", Space HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27195.m3u8
+#EXTINF: -1 tvg-id="Space SD" tvg-name="Space SD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES", Space SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27196.m3u8
+#EXTINF: -1 tvg-id="TCM SD" tvg-name="TCM HD*" tvg-logo="https://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES", TCM HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27197.m3u8
+#EXTINF: -1 tvg-id="TCM SD" tvg-name="TCM SD*" tvg-logo="https://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES", TCM SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27198.m3u8
+#EXTINF: -1 tvg-id="TNT FHD" tvg-name="TNT FHD*" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES", TNT FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27199.m3u8
+#EXTINF: -1 tvg-id="TNT HD" tvg-name="TNT HD* ²" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES", TNT HD* ²
+http://dns.maxptv.net:2052/live/max885/992801057/27201.m3u8
+#EXTINF: -1 tvg-id="TNT HD" tvg-name="TNT [HD]" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES", TNT [HD]
+http://dns.maxptv.net:2052/live/max885/992801057/27200.m3u8
+#EXTINF: -1 tvg-id="TNT SD" tvg-name="TNT [SD]" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES", TNT [SD]
+http://dns.maxptv.net:2052/live/max885/992801057/27202.m3u8
+#EXTINF: -1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ", Animal Planet FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27227.m3u8
+#EXTINF: -1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ", Animal Planet HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27228.m3u8
+#EXTINF: -1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ", Animal Planet SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27229.m3u8
+#EXTINF: -1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27221.m3u8
+#EXTINF: -1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27222.m3u8
+#EXTINF: -1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27243.m3u8
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Science FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27209.m3u8
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Science HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27210.m3u8
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Science SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27211.m3u8
+#EXTINF: -1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Theater HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27212.m3u8
+#EXTINF: -1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Theater SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27213.m3u8
+#EXTINF: -1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Turbo FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27214.m3u8
+#EXTINF: -1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Turbo HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27215.m3u8
+#EXTINF: -1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery Turbo SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27216.m3u8
+#EXTINF: -1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery World FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27217.m3u8
+#EXTINF: -1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery World HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27218.m3u8
+#EXTINF: -1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ", Discovery World SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27219.m3u8
+#EXTINF: -1 tvg-id="DogTV.us" tvg-name="DogTV HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/dogtv.png" group-title="Canais :: DOCUMENTÁRIOS ", DogTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27230.m3u8
+#EXTINF: -1 tvg-id="DogTV.us" tvg-name="DogTV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/dogtv.png" group-title="Canais :: DOCUMENTÁRIOS ", DogTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27231.m3u8
+#EXTINF: -1 tvg-id="FishTV.br" tvg-name="Fish TV FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ", Fish TV FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27206.m3u8
+#EXTINF: -1 tvg-id="FishTV.br" tvg-name="Fish TV HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ", Fish TV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27207.m3u8
+#EXTINF: -1 tvg-id="FishTV.br" tvg-name="Fish TV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ", Fish TV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27208.m3u8
+#EXTINF: -1 tvg-id="CanalFutura.br" tvg-name="Futura HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ", Futura HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27223.m3u8
+#EXTINF: -1 tvg-id="CanalFutura.br" tvg-name="Futura SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ", Futura SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27224.m3u8
+#EXTINF: -1 tvg-id="History2.br" tvg-name="H2 FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ", H2 FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27203.m3u8
+#EXTINF: -1 tvg-id="History2.br" tvg-name="H2 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ", H2 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27204.m3u8
+#EXTINF: -1 tvg-id="History2.br" tvg-name="H2 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ", H2 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27205.m3u8
+#EXTINF: -1 tvg-id="HGTV.br" tvg-name="HGTV HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ", HGTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27225.m3u8
+#EXTINF: -1 tvg-id="HGTV.br" tvg-name="HGTV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ", HGTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27226.m3u8
+#EXTINF: -1 tvg-id="History.br" tvg-name="History Channel FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ", History Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27242.m3u8
+#EXTINF: -1 tvg-id="History.br" tvg-name="History Channel HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ", History Channel HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27240.m3u8
+#EXTINF: -1 tvg-id="History.br" tvg-name="History Channel SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ", History Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27241.m3u8
+#EXTINF: -1 tvg-id="NationalGeographic.br" tvg-name="National Geographic FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ", National Geographic FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27237.m3u8
+#EXTINF: -1 tvg-id="NationalGeographic.br" tvg-name="National Geographic HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ", National Geographic HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27238.m3u8
+#EXTINF: -1 tvg-id="NationalGeographic.br" tvg-name="National Geographic SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ", National Geographic SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27239.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Baby Looney Tunes" tvg-logo="http://srv.maxptv.net:8080/images/11629183647d6b128994c7bc176c0bcd.png" group-title="24H ::: CLÁSSICOS DESENHOS", Baby Looney Tunes
+http://dns.maxptv.net:2052/live/max885/992801057/113214.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman do Futuro (1999)" tvg-logo="http://srv.maxptv.net:8080/images/58af157587628ed8bcbbe3fb0b65c166.png" group-title="24H ::: CLÁSSICOS DESENHOS", Batman do Futuro (1999)
+http://dns.maxptv.net:2052/live/max885/992801057/113216.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Planeta (1990)" tvg-logo="https://nx.nayptv.com/images/vkYW8kBI-uZN-j1M7wlrKnRPIjIqt3WKF9QcwxuIfBGwypBA4Mc2Z-LjaiJG59LX.png" group-title="24H ::: CLÁSSICOS DESENHOS", Capitão Planeta (1990)
+http://dns.maxptv.net:2052/live/max885/992801057/49779.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball GT (1996)" tvg-logo="http://srv.maxptv.net:8080/images/54607c518b46aee003e6454ff20aecb1.png" group-title="24H ::: CLÁSSICOS DESENHOS", Dragon Ball GT (1996)
+http://dns.maxptv.net:2052/live/max885/992801057/113204.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Johnny Bravo" tvg-logo="http://srv.maxptv.net:8080/images/0624a3c34ec7b5376f23f86de81a49ac.png" group-title="24H ::: CLÁSSICOS DESENHOS", Johnny Bravo
+http://dns.maxptv.net:2052/live/max885/992801057/113223.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Pequeno Urso (1995)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/191.png" group-title="24H ::: CLÁSSICOS DESENHOS", O Pequeno Urso (1995)
+http://dns.maxptv.net:2052/live/max885/992801057/49773.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Jetsons (1962)" tvg-logo="http://srv.maxptv.net:8080/images/a896b557bdb570a9f8ff21eda6f785b2.png" group-title="24H ::: CLÁSSICOS DESENHOS", Os Jetsons (1962)
+http://dns.maxptv.net:2052/live/max885/992801057/86129.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Super Amigos (1973)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/207.png" group-title="24H ::: CLÁSSICOS DESENHOS", Super Amigos (1973)
+http://dns.maxptv.net:2052/live/max885/992801057/49739.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Superman A Série Animada (1996)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/208.png" group-title="24H ::: CLÁSSICOS DESENHOS", Superman A Série Animada (1996)
+http://dns.maxptv.net:2052/live/max885/992801057/49763.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ThunderCats (2011)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/212.png" group-title="24H ::: CLÁSSICOS DESENHOS", ThunderCats (2011)
+http://dns.maxptv.net:2052/live/max885/992801057/49741.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Timão e Pumba (1995)" tvg-logo="http://srv.maxptv.net:8080/images/6e354b30072277c2525148089ef2b3cf.png" group-title="24H ::: CLÁSSICOS DESENHOS", Timão e Pumba (1995)
+http://dns.maxptv.net:2052/live/max885/992801057/86137.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tom e Jerry (1975)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/214.png" group-title="24H ::: CLÁSSICOS DESENHOS", Tom e Jerry (1975)
+http://dns.maxptv.net:2052/live/max885/992801057/49768.m3u8
+#EXTINF: -1 tvg-id="Baby TV HD" tvg-name="BabyTV HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL", BabyTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27401.m3u8
+#EXTINF: -1 tvg-id="Baby TV SD" tvg-name="BabyTV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL", BabyTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27402.m3u8
+#EXTINF: -1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL", Boomerang HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27399.m3u8
+#EXTINF: -1 tvg-id="Boomerang SD" tvg-name="Boomerang SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL", Boomerang SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27400.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL", Cartoon Network FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27396.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL", Cartoon Network HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27397.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network SD" tvg-name="Cartoon Network SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL", Cartoon Network SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27398.m3u8
+#EXTINF: -1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL", Cartoonito HD*
+http://dns.maxptv.net:2052/live/max885/992801057/49054.m3u8
+#EXTINF: -1 tvg-id="Cartoonito.br" tvg-name="Cartoonito SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL", Cartoonito SD*
+http://dns.maxptv.net:2052/live/max885/992801057/49055.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL", Discovery Kids HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27394.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids SD" tvg-name="Discovery Kids SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL", Discovery Kids SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27395.m3u8
+#EXTINF: -1 tvg-id="Disney Channel HD" tvg-name="Disney Channel  HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL", Disney Channel  HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27387.m3u8
+#EXTINF: -1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL", Disney Channel FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27388.m3u8
+#EXTINF: -1 tvg-id="Disney Channel SD" tvg-name="Disney Channel SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL", Disney Channel SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27389.m3u8
+#EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL", Gloob HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27385.m3u8
+#EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL", Gloob SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27386.m3u8
+#EXTINF: -1 tvg-id="Nick Jr HD" tvg-name="Nick Jr. HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL", Nick Jr. HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27377.m3u8
+#EXTINF: -1 tvg-id="Nick Jr SD" tvg-name="Nick Jr. SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL", Nick Jr. SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27378.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL", Nickelodeon FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27379.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL", Nickelodeon HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27380.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon SD" tvg-name="Nickelodeon SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL", Nickelodeon SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27381.m3u8
+#EXTINF: -1 tvg-id="TVRaTimBum.br" tvg-name="Rá -Tim Bum- HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL", Rá -Tim Bum- HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27375.m3u8
+#EXTINF: -1 tvg-id="TVRaTimBum.br" tvg-name="Rá- Tim- Bum SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL", Rá- Tim- Bum SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27376.m3u8
+#EXTINF: -1 tvg-id="Tooncast.us" tvg-name="Tooncast HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL", Tooncast HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27373.m3u8
+#EXTINF: -1 tvg-id="Tooncast.us" tvg-name="Tooncast SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL", Tooncast SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27374.m3u8
+#EXTINF: -1 tvg-id="TV Gloobinho HD" tvg-name="Tv Globinho  HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL", Tv Globinho  HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27449.m3u8
+#EXTINF: -1 tvg-id="TV Gloobinho SD" tvg-name="Tv Globinho  SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL", Tv Globinho  SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27448.m3u8
+#EXTINF: -1 tvg-id="Zoomoo SD" tvg-name="ZooMoo HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL", ZooMoo HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27371.m3u8
+#EXTINF: -1 tvg-id="Zoomoo SD" tvg-name="ZooMoo SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL", ZooMoo SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27372.m3u8
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD*" tvg-logo="https://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS", Band Campinas HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27154.m3u8
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas SD*" tvg-logo="https://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS", Band Campinas SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27155.m3u8
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD*" tvg-logo="https://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS", Band SP HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27156.m3u8
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP SD*" tvg-logo="https://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS", Band SP SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27157.m3u8
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS", Cultura HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27152.m3u8
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS", Cultura SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27153.m3u8
+#EXTINF: -1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas FHD*" tvg-logo="https://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS", EPTV Campinas FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/34234.m3u8
+#EXTINF: -1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD*" tvg-logo="https://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS", EPTV Campinas HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27150.m3u8
+#EXTINF: -1 tvg-id="Globo Eptv Campinas SD" tvg-name="EPTV Campinas SD*" tvg-logo="https://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS", EPTV Campinas SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27151.m3u8
+#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas HD*" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS", Record Campinas HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27145.m3u8
+#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas SD*" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS", Record Campinas SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27142.m3u8
+#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD*" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS", Record SP HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27143.m3u8
+#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP SD*" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS", Record SP SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27144.m3u8
+#EXTINF: -1 tvg-id="RedeVida.br" tvg-name="Rede Vida SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais :: ABERTOS", Rede Vida SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27137.m3u8
+#EXTINF: -1 tvg-id="RedeTV.br" tvg-name="RedeTV HD*" tvg-logo="https://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS", RedeTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27138.m3u8
+#EXTINF: -1 tvg-id="RedeTV.br" tvg-name="RedeTV SD*" tvg-logo="https://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS", RedeTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27139.m3u8
+#EXTINF: -1 tvg-id="SBTNacional.br" tvg-name="SBT HD Alternativo*" tvg-logo="https://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS", SBT HD Alternativo*
+http://dns.maxptv.net:2052/live/max885/992801057/73186.m3u8
+#EXTINF: -1 tvg-id="SBTNacional.br" tvg-name="SBT HD*" tvg-logo="https://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS", SBT HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27140.m3u8
+#EXTINF: -1 tvg-id="SBTNacional.br" tvg-name="SBT SD*" tvg-logo="https://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS", SBT SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27141.m3u8
+#EXTINF: -1 tvg-id="Band Sports HD" tvg-name="Band Sports HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES", Band Sports HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27271.m3u8
+#EXTINF: -1 tvg-id="Band Sports SD" tvg-name="Band Sports SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES", Band Sports SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27294.m3u8
+#EXTINF: -1 tvg-id="ESPN HD" tvg-name="ESPN HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn.png" group-title="Canais :: ESPORTES", ESPN HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27641.m3u8
+#EXTINF: -1 tvg-id="ESPN SD" tvg-name="ESPN SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn.png" group-title="Canais :: ESPORTES", ESPN SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27642.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 HD" tvg-name="ESPN  2 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES", ESPN  2 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27267.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 SD" tvg-name="ESPN  2 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES", ESPN  2 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27268.m3u8
+#EXTINF: -1 tvg-id="ESPN 3 HD" tvg-name="ESPN  3 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES", ESPN  3 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27265.m3u8
+#EXTINF: -1 tvg-id="ESPN 3 SD" tvg-name="ESPN  3 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES", ESPN  3 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27266.m3u8
+#EXTINF: -1 tvg-id="ESPN 4 SD" tvg-name="ESPN 4 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES", ESPN 4 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27285.m3u8
+#EXTINF: -1 tvg-id="ESPN 4 SD" tvg-name="ESPN 4 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES", ESPN 4 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27295.m3u8
+#EXTINF: -1 tvg-id="ESPN Extra HD" tvg-name="ESPN 6 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES", ESPN 6 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27269.m3u8
+#EXTINF: -1 tvg-id="ESPN Extra SD" tvg-name="ESPN 6  SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES", ESPN 6  SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27270.m3u8
+#EXTINF: -1 tvg-id="FOX SporTV 2 FHD" tvg-name="ESPN 5  FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES", ESPN 5  FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27281.m3u8
+#EXTINF: -1 tvg-id="FOX Sports 2 HD" tvg-name="ESPN 5 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES", ESPN 5 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27282.m3u8
+#EXTINF: -1 tvg-id="Fox Sports 2 SD" tvg-name="ESPN 5  SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES", ESPN 5  SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27283.m3u8
+#EXTINF: -1 tvg-id="FoxSports.br" tvg-name="ESPN 5 FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES", ESPN 5 FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27284.m3u8
+#EXTINF: -1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES", SporTV 2 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27277.m3u8
+#EXTINF: -1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES", SporTV 2 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27278.m3u8
+#EXTINF: -1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES", SporTV 3 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27279.m3u8
+#EXTINF: -1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES", SporTV 3 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27280.m3u8
+#EXTINF: -1 tvg-id="SporTV.br" tvg-name="SporTV HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES", SporTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27275.m3u8
+#EXTINF: -1 tvg-id="SporTV.br" tvg-name="SporTV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES", SporTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27276.m3u8
+#EXTINF: -1 tvg-name="BestRadio Brasil" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/bestradio.png" group-title="RÁDIOS :: FM", BestRadio Brasil
+http://dns.maxptv.net:2052/live/max885/992801057/23673.m3u8
+#EXTINF: -1 tvg-name="Chris Country" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/chriscountry.png" group-title="RÁDIOS :: FM", Chris Country
+http://dns.maxptv.net:2052/live/max885/992801057/23664.m3u8
+#EXTINF: -1 tvg-name="Clube da Criança" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/clubecrianca.png" group-title="RÁDIOS :: FM", Clube da Criança
+http://dns.maxptv.net:2052/live/max885/992801057/23652.m3u8
+#EXTINF: -1 tvg-name="FFH The 80's" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/fht.png" group-title="RÁDIOS :: FM", FFH The 80's
+http://dns.maxptv.net:2052/live/max885/992801057/28021.m3u8
+#EXTINF: -1 tvg-name="Funk - Americano" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/funkamericano.png" group-title="RÁDIOS :: FM", Funk - Americano
+http://dns.maxptv.net:2052/live/max885/992801057/23540.m3u8
+#EXTINF: -1 tvg-name="Greatest Hits of Hip Hop" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/greathiphop.png" group-title="RÁDIOS :: FM", Greatest Hits of Hip Hop
+http://dns.maxptv.net:2052/live/max885/992801057/23541.m3u8
+#EXTINF: -1 tvg-name="Hits 90's" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/hits90.png" group-title="RÁDIOS :: FM", Hits 90's
+http://dns.maxptv.net:2052/live/max885/992801057/23534.m3u8
+#EXTINF: -1 tvg-name="Jovem Pan FM Piracicaba" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/jppiracicaba.png" group-title="RÁDIOS :: FM", Jovem Pan FM Piracicaba
+http://dns.maxptv.net:2052/live/max885/992801057/23662.m3u8
+#EXTINF: -1 tvg-name="Nova Brasil FM Campinas" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/novabrasilcampinas.png" group-title="RÁDIOS :: FM", Nova Brasil FM Campinas
+http://dns.maxptv.net:2052/live/max885/992801057/23671.m3u8
+#EXTINF: -1 tvg-name="Radio Mania FM" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/mania.png" group-title="RÁDIOS :: FM", Radio Mania FM
+http://dns.maxptv.net:2052/live/max885/992801057/23678.m3u8
+#EXTINF: -1 tvg-name="Radio Modão Sertanejo" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/modaosertanejo.png" group-title="RÁDIOS :: FM", Radio Modão Sertanejo
+http://dns.maxptv.net:2052/live/max885/992801057/23658.m3u8
+#EXTINF: -1 tvg-name="Rap - Internacional" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/rapinternaciomal.png" group-title="RÁDIOS :: FM", Rap - Internacional
+http://dns.maxptv.net:2052/live/max885/992801057/23538.m3u8
+#EXTINF: -1 tvg-name="Rádio 105 FM" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/105.png" group-title="RÁDIOS :: FM", Rádio 105 FM
+http://dns.maxptv.net:2052/live/max885/992801057/23674.m3u8
+#EXTINF: -1 tvg-name="Rádio Antena 1 São Paulo" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/antena1sp.png" group-title="RÁDIOS :: FM", Rádio Antena 1 São Paulo
+http://dns.maxptv.net:2052/live/max885/992801057/23659.m3u8
+#EXTINF: -1 tvg-name="Rádio Coringão" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/radiocorinthians.png" group-title="RÁDIOS :: FM", Rádio Coringão
+http://dns.maxptv.net:2052/live/max885/992801057/23660.m3u8
+#EXTINF: -1 tvg-name="Rádio Hunter FM Sertanejo" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/hunter.png" group-title="RÁDIOS :: FM", Rádio Hunter FM Sertanejo
+http://dns.maxptv.net:2052/live/max885/992801057/23657.m3u8
+#EXTINF: -1 tvg-name="Rádio Samba FM" tvg-logo="https://painelsbo.painel.life/logosiptv/radios/sambapagode.png" group-title="RÁDIOS :: FM", Rádio Samba FM
+http://dns.maxptv.net:2052/live/max885/992801057/23654.m3u8
+#EXTINF: -1 tvg-id="Bis.br" tvg-name="Bis HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS", Bis HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27434.m3u8
+#EXTINF: -1 tvg-id="Bis.br" tvg-name="Bis SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS", Bis SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27435.m3u8
+#EXTINF: -1 tvg-id="VH1.br" tvg-name="MTV 00s FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS", MTV 00s FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27426.m3u8
+#EXTINF: -1 tvg-id="VH1.br" tvg-name="MTV 00s HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS", MTV 00s HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27427.m3u8
+#EXTINF: -1 tvg-id="VH1.br" tvg-name="MTV 00s SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS", MTV 00s SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27428.m3u8
+#EXTINF: -1 tvg-id="mtv.br" tvg-name="MTV FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS", MTV FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27429.m3u8
+#EXTINF: -1 tvg-id="mtv.br" tvg-name="MTV HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS", MTV HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27430.m3u8
+#EXTINF: -1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS", MTV Live HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27425.m3u8
+#EXTINF: -1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS", MTV LIVE SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48362.m3u8
+#EXTINF: -1 tvg-id="mtv.br" tvg-name="MTV SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS", MTV SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27431.m3u8
+#EXTINF: -1 tvg-id="Multishow HD" tvg-name="Multishow HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS", Multishow HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27432.m3u8
+#EXTINF: -1 tvg-id="Multishow SD" tvg-name="Multishow SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS", Multishow SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27433.m3u8
+#EXTINF: -1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS", Music Box Brazil HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48367.m3u8
+#EXTINF: -1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS", Music Box Brazil SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48368.m3u8
+#EXTINF: -1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS", Trace Brazuca HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50415.m3u8
+#EXTINF: -1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS", Trace Brazuca SD*
+http://dns.maxptv.net:2052/live/max885/992801057/50414.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Black Kamen Rider 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/BlackKamenRider.png" group-title="24H ::: SÉRIES", Black Kamen Rider 24H
+http://dns.maxptv.net:2052/live/max885/992801057/537.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Canal CSI 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/CanalCSI.png" group-title="24H ::: SÉRIES", Canal CSI 24H
+http://dns.maxptv.net:2052/live/max885/992801057/538.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Action 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineAction.png" group-title="24H ::: SÉRIES", Cine Action 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/548.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineDrama.png" group-title="24H ::: SÉRIES", Cine Drama 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/550.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Family 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFamily.png" group-title="24H ::: SÉRIES", Cine Family 24H
+http://dns.maxptv.net:2052/live/max885/992801057/551.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Faroeste 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/cinefaroeste.png" group-title="24H ::: SÉRIES", Cine Faroeste 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/1478.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFiction.png" group-title="24H ::: SÉRIES", Cine Fiction 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/536.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFun%20.png" group-title="24H ::: SÉRIES", Cine Fun 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/552.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/cineguerra.png" group-title="24H ::: SÉRIES", Cine Guerra 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/1477.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineHorror.png" group-title="24H ::: SÉRIES", Cine Horror 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/553.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/Cinekids.png" group-title="24H ::: SÉRIES", CINE KIDS 24H ULTRA HD
+http://dns.maxptv.net:2052/live/max885/992801057/554.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CINE Nacionais 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineNacionais.png" group-title="24H ::: SÉRIES", CINE Nacionais 24H
+http://dns.maxptv.net:2052/live/max885/992801057/555.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cine Terror" tvg-logo="http://dns.mmtv.me:80/images/mg9e4VnU5MiobcDarwnBsXQwVqjui8_uD6uwbKhfos0.png" group-title="24H ::: SÉRIES", Cine Terror
+http://dns.maxptv.net:2052/live/max885/992801057/71528.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/comoconhecisuamae.png" group-title="24H ::: SÉRIES", Como eu Conheci a Sua Mae  24H
+http://dns.maxptv.net:2052/live/max885/992801057/567.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cybercop, os Policiais do Futuro 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/Cybercop.png" group-title="24H ::: SÉRIES", os Policiais do Futuro 24H
+http://dns.maxptv.net:2052/live/max885/992801057/1479.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dois Homens e Meio" tvg-logo="http://dns.mmtv.me:80/images/AetOeKfrWTDy8oYkKnqguR9ES-9K6SMgH6EIzMqMtsQWJEySA4grFXkgkxNVJsGejrRX1oKMfew8xoRrBxyy2O6TlDhVYrbDuAKsKhEh5UQ.png" group-title="24H ::: SÉRIES", Dois Homens e Meio
+http://dns.maxptv.net:2052/live/max885/992801057/71560.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dr. House 2 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/house.png" group-title="24H ::: SÉRIES", Dr. House 2 24H
+http://dns.maxptv.net:2052/live/max885/992801057/20461.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragoes  24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/dragoes.png" group-title="24H ::: SÉRIES", Dragoes  24H
+http://dns.maxptv.net:2052/live/max885/992801057/1480.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball GT 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: SÉRIES", Dragon Ball GT 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40781.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball X Freeza 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: SÉRIES", Dragon Ball X Freeza 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40777.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Androides 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: SÉRIES", Dragon Ball Z Androides 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40778.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Cell 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: SÉRIES", Dragon Ball Z Cell 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40779.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z Sayajins 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24H ::: SÉRIES", Dragon Ball Z Sayajins 24H
+http://dns.maxptv.net:2052/live/max885/992801057/40780.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Friends 24H Ultra HD" tvg-logo="https://assets.turbologo.com/blog/en/2019/12/19084751/friends-logo-cover-958x575.png" group-title="24H ::: SÉRIES", Friends 24H Ultra HD
+http://dns.maxptv.net:2052/live/max885/992801057/40795.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Jaspion 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/jaspion.png" group-title="24H ::: SÉRIES", Jaspion 24H
+http://dns.maxptv.net:2052/live/max885/992801057/570.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MARVEL & DC 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/Marvel&DC.png" group-title="24H ::: SÉRIES", MARVEL & DC 24H
+http://dns.maxptv.net:2052/live/max885/992801057/545.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MR. Bean 24H" tvg-logo="https://material.asset.catchplay.com/NBC-IN-001-A0184/artworks/posters/NBC-IN-001-A0184-P544.jpg" group-title="24H ::: SÉRIES", MR. Bean 24H
+http://dns.maxptv.net:2052/live/max885/992801057/546.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os 3 patetas 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/3patetas.png" group-title="24H ::: SÉRIES", Os 3 patetas 24H
+http://dns.maxptv.net:2052/live/max885/992801057/19540.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Vingadores 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/vingadores.png" group-title="24H ::: SÉRIES", Os Vingadores 24H
+http://dns.maxptv.net:2052/live/max885/992801057/1482.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="The Big Bang Theory 24H" tvg-logo="https://portalovertube.com/wp-content/uploads/2014/08/big-bang-theory.png" group-title="24H ::: SÉRIES", The Big Bang Theory 24H
+http://dns.maxptv.net:2052/live/max885/992801057/543.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="The Walking Dead (2010)" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/thewalking.png" group-title="24H ::: SÉRIES", The Walking Dead (2010)
+http://dns.maxptv.net:2052/live/max885/992801057/112838.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://painelsbo.painel.life/logo/todomundoodeiaocris.png" group-title="24H ::: SÉRIES", Todo Mundo Odeia o Cris
+http://dns.maxptv.net:2052/live/max885/992801057/317.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Two And a Half Man 24H" tvg-logo="https://painelsbo.painel.life/logo/twoandhalfman.png" group-title="24H ::: SÉRIES", Two And a Half Man 24H
+http://dns.maxptv.net:2052/live/max885/992801057/542.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Um Maluco no Pedaço" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/maluco.png" group-title="24H ::: SÉRIES", Um Maluco no Pedaço
+http://dns.maxptv.net:2052/live/max885/992801057/113012.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Vikings (2013)" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/vikins.png" group-title="24H ::: SÉRIES", Vikings (2013)
+http://dns.maxptv.net:2052/live/max885/992801057/112840.m3u8
+#EXTINF: -1 tvg-name="Eu a Patroa e as Criancas" tvg-logo="http://dns.mmtv.me/images/eupatroacriancas.jpg" group-title="24H ::: SÉRIES", Eu a Patroa e as Criancas
+http://dns.maxptv.net:2052/live/max885/992801057/123893.m3u8
+#EXTINF: -1 tvg-id="BLMBRHD" tvg-name="Bloomberg HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/Bloomberg.png" group-title="Canais :: CORTESIA", Bloomberg HD
+http://dns.maxptv.net:2052/live/max885/992801057/49127.m3u8
+#EXTINF: -1 tvg-id="BLMBRHD" tvg-name="Bloomberg SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/Bloomberg.png" group-title="Canais :: CORTESIA", Bloomberg SD
+http://dns.maxptv.net:2052/live/max885/992801057/49128.m3u8
+#EXTINF: -1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA", Boa Vontade TV HD
+http://dns.maxptv.net:2052/live/max885/992801057/49115.m3u8
+#EXTINF: -1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA", Boa Vontade TV SD
+http://dns.maxptv.net:2052/live/max885/992801057/49116.m3u8
+#EXTINF: -1 tvg-id="Canal do Boi HD" tvg-name="Canal do Boi HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA", Canal do Boi HD
+http://dns.maxptv.net:2052/live/max885/992801057/20467.m3u8
+#EXTINF: -1 tvg-id="Canal do Boi SD" tvg-name="Canal do Boi SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA", Canal do Boi SD
+http://dns.maxptv.net:2052/live/max885/992801057/49046.m3u8
+#EXTINF: -1 tvg-id="Canal Rural SD" tvg-name="Canal Rural HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA", Canal Rural HD
+http://dns.maxptv.net:2052/live/max885/992801057/49121.m3u8
+#EXTINF: -1 tvg-id="Canal Rural SD" tvg-name="Canal Rural SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA", Canal Rural SD
+http://dns.maxptv.net:2052/live/max885/992801057/49122.m3u8
+#EXTINF: -1 tvg-id="FashionTV.br" tvg-name="Fashion TV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/fashiontv.png" group-title="Canais :: CORTESIA", Fashion TV HD
+http://dns.maxptv.net:2052/live/max885/992801057/48333.m3u8
+#EXTINF: -1 tvg-id="FashionTV.br" tvg-name="Fashion TV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/fashiontv.png" group-title="Canais :: CORTESIA", Fashion TV SD
+http://dns.maxptv.net:2052/live/max885/992801057/48334.m3u8
+#EXTINF: -1 tvg-id="Markket HD" tvg-name="Markket HD" tvg-logo="https://vcfaz.tv/wp-content/uploads/2022/05/markkettv-324x160.png" group-title="Canais :: CORTESIA", Markket HD
+http://dns.maxptv.net:2052/live/max885/992801057/52363.m3u8
+#EXTINF: -1 tvg-id="Markket HD" tvg-name="Markket SD" tvg-logo="https://vcfaz.tv/wp-content/uploads/2022/05/markkettv-324x160.png" group-title="Canais :: CORTESIA", Markket SD
+http://dns.maxptv.net:2052/live/max885/992801057/52365.m3u8
+#EXTINF: -1 tvg-id="Polishop TV" tvg-name="Polishop TV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/polishop.png" group-title="Canais :: CORTESIA", Polishop TV HD
+http://dns.maxptv.net:2052/live/max885/992801057/49113.m3u8
+#EXTINF: -1 tvg-id="Polishop TV" tvg-name="Polishop TV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/polishop.png" group-title="Canais :: CORTESIA", Polishop TV SD
+http://dns.maxptv.net:2052/live/max885/992801057/49114.m3u8
+#EXTINF: -1 tvg-id="Terra Viva SD" tvg-name="Terra Viva HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA", Terra Viva HD
+http://dns.maxptv.net:2052/live/max885/992801057/49048.m3u8
+#EXTINF: -1 tvg-id="Terra Viva SD" tvg-name="Terra Viva SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA", Terra Viva SD
+http://dns.maxptv.net:2052/live/max885/992801057/49049.m3u8
+#EXTINF: -1 tvg-id="travelboxbrazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/travelbosbrasil.png" group-title="Canais :: CORTESIA", Travel Box Brazil HD
+http://dns.maxptv.net:2052/live/max885/992801057/48335.m3u8
+#EXTINF: -1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/travelbosbrasil.png" group-title="Canais :: CORTESIA", Travel Box Brazil SD
+http://dns.maxptv.net:2052/live/max885/992801057/48336.m3u8
+#EXTINF: -1 tvg-id="TV Brasil HD" tvg-name="TV Brasil  HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA", TV Brasil  HD
+http://dns.maxptv.net:2052/live/max885/992801057/47534.m3u8
+#EXTINF: -1 tvg-id="TV Brasil HD [Alter]" tvg-name="TV Brasil 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil2.png" group-title="Canais :: CORTESIA", TV Brasil 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/49111.m3u8
+#EXTINF: -1 tvg-id="TV Brasil SD [Alter]" tvg-name="TV Brasil 2 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil2.png" group-title="Canais :: CORTESIA", TV Brasil 2 SD
+http://dns.maxptv.net:2052/live/max885/992801057/49112.m3u8
+#EXTINF: -1 tvg-id="TV Brasil HD" tvg-name="TV Brasil FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA", TV Brasil FHD
+http://dns.maxptv.net:2052/live/max885/992801057/20308.m3u8
+#EXTINF: -1 tvg-id="TV Brasil SD" tvg-name="TV Brasil SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA", TV Brasil SD
+http://dns.maxptv.net:2052/live/max885/992801057/47535.m3u8
+#EXTINF: -1 tvg-id="TV Gazeta SP FHD" tvg-name="TV Gazeta FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA", TV Gazeta FHD
+http://dns.maxptv.net:2052/live/max885/992801057/49239.m3u8
+#EXTINF: -1 tvg-id="TV Gazeta SP HD" tvg-name="TV Gazeta HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA", TV Gazeta HD
+http://dns.maxptv.net:2052/live/max885/992801057/27160.m3u8
+#EXTINF: -1 tvg-id="TV Gazeta SP SD" tvg-name="Tv Gazeta SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA", Tv Gazeta SD
+http://dns.maxptv.net:2052/live/max885/992801057/22948.m3u8
+#EXTINF: -1 tvg-id="TVWA" tvg-name="TV WA HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvwa.png" group-title="Canais :: CORTESIA", TV WA HD
+http://dns.maxptv.net:2052/live/max885/992801057/49120.m3u8
+#EXTINF: -1 tvg-id="TVWA" tvg-name="TV WA SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvwa.png" group-title="Canais :: CORTESIA", TV WA SD
+http://dns.maxptv.net:2052/live/max885/992801057/49119.m3u8
+#EXTINF: -1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil TV" tvg-logo="https://imagem.natelinha.uol.com.br/original/rede-brasil-net-claro_5596.jpeg" group-title="Canais :: CORTESIA", Rede Brasil TV
+http://dns.maxptv.net:2052/live/max885/992801057/139908.m3u8
+#EXTINF: -1 tvg-id="ZYA508" tvg-name="Bloomberg HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/Bloomberg.png" group-title="Canais :: MUNDO INTERNACIONAL", Bloomberg HD*
+http://dns.maxptv.net:2052/live/max885/992801057/49147.m3u8
+#EXTINF: -1 tvg-id="ZYA508" tvg-name="Bloomberg SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/Bloomberg.png" group-title="Canais :: MUNDO INTERNACIONAL", Bloomberg SD*
+http://dns.maxptv.net:2052/live/max885/992801057/49148.m3u8
+#EXTINF: -1 tvg-id="CNN Internacional SD" tvg-name="CNN International HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL", CNN International HD*
+http://dns.maxptv.net:2052/live/max885/992801057/49145.m3u8
+#EXTINF: -1 tvg-id="CNN Internacional SD" tvg-name="CNN International SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL", CNN International SD*
+http://dns.maxptv.net:2052/live/max885/992801057/49146.m3u8
+#EXTINF: -1 tvg-id="France 24 HD" tvg-name="France 24 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/france24.png" group-title="Canais :: MUNDO INTERNACIONAL", France 24 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48372.m3u8
+#EXTINF: -1 tvg-id="France 24 HD" tvg-name="France 24 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/france24.png" group-title="Canais :: MUNDO INTERNACIONAL", France 24 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48373.m3u8
+#EXTINF: -1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/nhk.png" group-title="Canais :: MUNDO INTERNACIONAL", NHK HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27446.m3u8
+#EXTINF: -1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/nhk.png" group-title="Canais :: MUNDO INTERNACIONAL", NHK SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27447.m3u8
+#EXTINF: -1 tvg-id="RaiItaliaAmerica.it" tvg-name="RAI HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/rai.png" group-title="Canais :: MUNDO INTERNACIONAL", RAI HD*
+http://dns.maxptv.net:2052/live/max885/992801057/49137.m3u8
+#EXTINF: -1 tvg-id="RaiItaliaAmerica.it" tvg-name="RAI SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/rai.png" group-title="Canais :: MUNDO INTERNACIONAL", RAI SD*
+http://dns.maxptv.net:2052/live/max885/992801057/49138.m3u8
+#EXTINF: -1 tvg-id="TV5BRZ" tvg-name="TV5 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/tv5mond.png" group-title="Canais :: MUNDO INTERNACIONAL", TV5 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/49149.m3u8
+#EXTINF: -1 tvg-id="ZYA508" tvg-name="TV5 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/tv5mond.png" group-title="Canais :: MUNDO INTERNACIONAL", TV5 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/49150.m3u8
+#EXTINF: -1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO", Canção Nova HD
+http://dns.maxptv.net:2052/live/max885/992801057/47755.m3u8
+#EXTINF: -1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO", Canção Nova HD*
+http://dns.maxptv.net:2052/live/max885/992801057/47757.m3u8
+#EXTINF: -1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO", Canção Nova SD
+http://dns.maxptv.net:2052/live/max885/992801057/47756.m3u8
+#EXTINF: -1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO", Canção Nova SD*
+http://dns.maxptv.net:2052/live/max885/992801057/47758.m3u8
+#EXTINF: -1 tvg-id="Rci.br" tvg-name="Pai Eterno HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/paieterno.png" group-title="Canais :: RELIGIÃO", Pai Eterno HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27450.m3u8
+#EXTINF: -1 tvg-name="Rede Brasil de Comunicação" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/redebrasilcomunica.png" group-title="Canais :: RELIGIÃO", Rede Brasil de Comunicação
+http://dns.maxptv.net:2052/live/max885/992801057/83869.m3u8
+#EXTINF: -1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: RELIGIÃO", Rede Família SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48371.m3u8
+#EXTINF: -1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SHD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: RELIGIÃO", Rede Família SHD
+http://dns.maxptv.net:2052/live/max885/992801057/31823.m3u8
+#EXTINF: -1 tvg-name="Rede Gospel" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/redegospel.png" group-title="Canais :: RELIGIÃO", Rede Gospel
+http://dns.maxptv.net:2052/live/max885/992801057/83868.m3u8
+#EXTINF: -1 tvg-id="RedeVida.br" tvg-name="Rede Vida HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/redevida.png" group-title="Canais :: RELIGIÃO", Rede Vida HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27456.m3u8
+#EXTINF: -1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO", TV Aparecida HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27454.m3u8
+#EXTINF: -1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO", TV Aparecida SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27455.m3u8
+#EXTINF: -1 tvg-id="TV Evangelizar SD" tvg-name="TV Evangelizar" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/tvevangelizar.png" group-title="Canais :: RELIGIÃO", TV Evangelizar
+http://dns.maxptv.net:2052/live/max885/992801057/83867.m3u8
+#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV Novo Tempo HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO", TV Novo Tempo HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27453.m3u8
+#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO", TV NOVO TEMPO HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48364.m3u8
+#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO", TV NOVO TEMPO SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48363.m3u8
+#EXTINF: -1 tvg-name="TV Padre Cicero" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/padrecicero.png" group-title="Canais :: RELIGIÃO", TV Padre Cicero
+http://dns.maxptv.net:2052/live/max885/992801057/83872.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 1" tvg-name="CINE SKY 01 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 01 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26714.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 2" tvg-name="CINE SKY 02 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 02 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26715.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 3" tvg-name="CINE SKY 03 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 03 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26716.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 4" tvg-name="CINE SKY 04 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 04 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26717.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 5" tvg-name="CINE SKY 05 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 05 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26718.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 6" tvg-name="CINE SKY 06 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 06 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26719.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 7" tvg-name="CINE SKY 07 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 07 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26720.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 8" tvg-name="CINE SKY 08 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 08 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26721.m3u8
+#EXTINF: -1 tvg-id="Cine Sky 9" tvg-name="CINE SKY 09 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/CineSKY/225.png" group-title="Canais :: CINE SKY", CINE SKY 09 HD
+http://dns.maxptv.net:2052/live/max885/992801057/26722.m3u8
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE", Combate FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27424.m3u8
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE", Combate HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27422.m3u8
+#EXTINF: -1 tvg-id="combate.br" tvg-name="Combate SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE", Combate SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27423.m3u8
+#EXTINF: -1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE", Premiere 1 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27403.m3u8
+#EXTINF: -1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD² * " tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE", Premiere 1 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27404.m3u8
+#EXTINF: -1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE", Premiere 1 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27405.m3u8
+#EXTINF: -1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE", Premiere 2 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27406.m3u8
+#EXTINF: -1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD² *" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE", Premiere 2 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27407.m3u8
+#EXTINF: -1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE", Premiere 2 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27408.m3u8
+#EXTINF: -1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE", Premiere 3 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27409.m3u8
+#EXTINF: -1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD² * " tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE", Premiere 3 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27410.m3u8
+#EXTINF: -1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE", Premiere 3 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27411.m3u8
+#EXTINF: -1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE", Premiere 4 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27412.m3u8
+#EXTINF: -1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD² * " tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE", Premiere 4 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27413.m3u8
+#EXTINF: -1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE", Premiere 4 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27414.m3u8
+#EXTINF: -1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE", Premiere 5 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27415.m3u8
+#EXTINF: -1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD² * " tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE", Premiere 5 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27416.m3u8
+#EXTINF: -1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE", Premiere 5 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27417.m3u8
+#EXTINF: -1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE", Premiere 6 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27418.m3u8
+#EXTINF: -1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE", Premiere 6 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27419.m3u8
+#EXTINF: -1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD² * " tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE", Premiere 7 HD² *
+http://dns.maxptv.net:2052/live/max885/992801057/27421.m3u8
+#EXTINF: -1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE", Premiere 7 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27420.m3u8
+#EXTINF: -1 tvg-id="Conmebol" tvg-name="CONMEBOL PARAMOUNT+ 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/18835.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 HD²" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 1 HD²
+http://dns.maxptv.net:2052/live/max885/992801057/115481.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 1 SD
+http://dns.maxptv.net:2052/live/max885/992801057/19039.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/18836.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD²" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 2 HD²
+http://dns.maxptv.net:2052/live/max885/992801057/115482.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 2 SD
+http://dns.maxptv.net:2052/live/max885/992801057/19040.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 3 HD
+http://dns.maxptv.net:2052/live/max885/992801057/18837.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD²" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 3 HD²
+http://dns.maxptv.net:2052/live/max885/992801057/115483.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 3 SD
+http://dns.maxptv.net:2052/live/max885/992801057/19041.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 4 HD
+http://dns.maxptv.net:2052/live/max885/992801057/18838.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD²" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 4 HD²
+http://dns.maxptv.net:2052/live/max885/992801057/115484.m3u8
+#EXTINF: -1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+", CONMEBOL PARAMOUNT+ 4 SD
+http://dns.maxptv.net:2052/live/max885/992801057/19042.m3u8
+#EXTINF: -1 tvg-id="curta.br" tvg-name="Curta! HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES", Curta! HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27658.m3u8
+#EXTINF: -1 tvg-id="curta.br" tvg-name="Curta! SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES", Curta! SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27659.m3u8
+#EXTINF: -1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES", Discovery Home & Health FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27220.m3u8
+#EXTINF: -1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES", Discovery Home & Health HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27654.m3u8
+#EXTINF: -1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES", Discovery Home & Health SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27655.m3u8
+#EXTINF: -1 tvg-id="gnt.br" tvg-name="Food Network HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES", Food Network HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27652.m3u8
+#EXTINF: -1 tvg-id="foodnetwork.br" tvg-name="Food Network SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES", Food Network SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27653.m3u8
+#EXTINF: -1 tvg-id="gnt.br" tvg-name="GNT HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES", GNT HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27650.m3u8
+#EXTINF: -1 tvg-id="gnt.br" tvg-name="GNT SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES", GNT SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27651.m3u8
+#EXTINF: -1 tvg-id="Loading.br" tvg-name="LOADING HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES", LOADING HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48375.m3u8
+#EXTINF: -1 tvg-id="Loading.br" tvg-name="LOADING SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES", LOADING SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48376.m3u8
+#EXTINF: -1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES", MAIS NA TELA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48379.m3u8
+#EXTINF: -1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES", MAIS NA TELA SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48380.m3u8
+#EXTINF: -1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES", Modo Viagem HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27648.m3u8
+#EXTINF: -1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES", Modo Viagem SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27649.m3u8
+#EXTINF: -1 tvg-id="CanalOff.br" tvg-name="OFF HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES", OFF HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27656.m3u8
+#EXTINF: -1 tvg-id="CanalOff.br" tvg-name="OFF SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES", OFF SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27657.m3u8
+#EXTINF: -1 tvg-id="Sabor e Arte HD" tvg-name="Sabor & Arte HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES", Sabor & Arte HD*
+http://dns.maxptv.net:2052/live/max885/992801057/48354.m3u8
+#EXTINF: -1 tvg-id="Sabor e Arte SD" tvg-name="Sabor & Arte SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES", Sabor & Arte SD*
+http://dns.maxptv.net:2052/live/max885/992801057/48355.m3u8
+#EXTINF: -1 tvg-id="TLC.br" tvg-name="TLC HD*" tvg-logo="https://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES", TLC HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27646.m3u8
+#EXTINF: -1 tvg-id="TLC.br" tvg-name="TLC SD*" tvg-logo="https://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES", TLC SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27647.m3u8
+#EXTINF: -1 tvg-id="viva.br" tvg-name="Viva HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES", Viva HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27644.m3u8
+#EXTINF: -1 tvg-id="viva.br" tvg-name="Viva SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES", Viva SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27645.m3u8
+#EXTINF: -1 tvg-id="woohoo.br" tvg-name="Woohoo HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES", Woohoo HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27663.m3u8
+#EXTINF: -1 tvg-id="woohoo.br" tvg-name="Woohoo SD*" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES", Woohoo SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27664.m3u8
+#EXTINF: -1 tvg-id="trutv.br" tvg-name="Adult Swim HD" tvg-logo="https://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES", Adult Swim HD
+http://dns.maxptv.net:2052/live/max885/992801057/136111.m3u8
+#EXTINF: -1 tvg-id="trutv.br" tvg-name="Adult Swim SD" tvg-logo="https://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES", Adult Swim SD
+http://dns.maxptv.net:2052/live/max885/992801057/136112.m3u8
+#EXTINF: -1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="https://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES", Arte 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/136903.m3u8
+#EXTINF: -1 tvg-id="Arte 1 HD" tvg-name="Arte 1 SD" tvg-logo="https://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES", Arte 1 SD
+http://dns.maxptv.net:2052/live/max885/992801057/136904.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Gln Tv" tvg-logo="https://painelsbo.painel.life/logosiptv/classicosseries/glntv.png" group-title="24H ::: CLÁSSICOS SÉRIES ", Gln Tv
+http://dns.maxptv.net:2052/live/max885/992801057/71748.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Rede Clone Tv" tvg-logo="https://painelsbo.painel.life/logosiptv/classicosseries/redeclone.png" group-title="24H ::: CLÁSSICOS SÉRIES ", Rede Clone Tv
+http://dns.maxptv.net:2052/live/max885/992801057/71751.m3u8
+#EXTINF: -1 tvg-id="Globo Inter TV Cabugi SD" tvg-name="Globo - INTER TV CABUGI*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", Globo - INTER TV CABUGI*
+http://dns.maxptv.net:2052/live/max885/992801057/51597.m3u8
+#EXTINF: -1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO BRASILIA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50312.m3u8
+#EXTINF: -1 tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO EPTV CAMPINAS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO EPTV CAMPINAS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50328.m3u8
+#EXTINF: -1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO EPTV SUL MINAS HD
+http://dns.maxptv.net:2052/live/max885/992801057/50258.m3u8
+#EXTINF: -1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL MINAS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO EPTV SUL MINAS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50314.m3u8
+#EXTINF: -1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO GRANDE MINAS HD
+http://dns.maxptv.net:2052/live/max885/992801057/50259.m3u8
+#EXTINF: -1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO GRANDE MINAS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO GRANDE MINAS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50315.m3u8
+#EXTINF: -1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO MINAS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50317.m3u8
+#EXTINF: -1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO NORDESTE HD
+http://dns.maxptv.net:2052/live/max885/992801057/50263.m3u8
+#EXTINF: -1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO NORDESTE HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50319.m3u8
+#EXTINF: -1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO NSC FLORIANOPOLIS HD
+http://dns.maxptv.net:2052/live/max885/992801057/50264.m3u8
+#EXTINF: -1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO NSC FLORIANOPOLIS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50320.m3u8
+#EXTINF: -1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO RBS PORTO ALEGRE HD
+http://dns.maxptv.net:2052/live/max885/992801057/50282.m3u8
+#EXTINF: -1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO RBS PORTO ALEGRE HD
+http://dns.maxptv.net:2052/live/max885/992801057/50265.m3u8
+#EXTINF: -1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO RBS PORTO ALEGRE HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50338.m3u8
+#EXTINF: -1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO REDE AMAZONICA RONDONIA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50342.m3u8
+#EXTINF: -1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO RJ HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50322.m3u8
+#EXTINF: -1 tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO RPC CURITIBA HD
+http://dns.maxptv.net:2052/live/max885/992801057/50287.m3u8
+#EXTINF: -1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO SP HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50323.m3u8
+#EXTINF: -1 tvg-id="Globo TV Anhanguera HD" tvg-name="GLOBO TV ANHANGUERA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV ANHANGUERA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50348.m3u8
+#EXTINF: -1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV BAHIA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50349.m3u8
+#EXTINF: -1 tvg-id="Globo TV Liberal Belem HD" tvg-name="GLOBO TV BELEM HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV BELEM HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50324.m3u8
+#EXTINF: -1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV VANG. S.J. CAMPOS HD
+http://dns.maxptv.net:2052/live/max885/992801057/50307.m3u8
+#EXTINF: -1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV VANG. S.J. CAMPOS HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50363.m3u8
+#EXTINF: -1 tvg-id="TVBahia.br" tvg-name="GLOBO TV VITORIA HD*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", GLOBO TV VITORIA HD*
+http://dns.maxptv.net:2052/live/max885/992801057/50365.m3u8
+#EXTINF: -1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="TV Centro América Cuiabá (ST)*" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", TV Centro América Cuiabá (ST)*
+http://dns.maxptv.net:2052/live/max885/992801057/51596.m3u8
+#EXTINF: -1 tvg-id="Globo Bauru HD" tvg-name="TV Tem Bauru (ST)" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", TV Tem Bauru (ST)
+http://dns.maxptv.net:2052/live/max885/992801057/141430.m3u8
+#EXTINF: -1 tvg-id="Globo TV Tem Itapetininga HD" tvg-name="TV Tem Itapetininga (ST)" tvg-logo="https://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS", TV Tem Itapetininga (ST)
+http://dns.maxptv.net:2052/live/max885/992801057/141428.m3u8
+#EXTINF: -1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO", HBO 2 FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27299.m3u8
+#EXTINF: -1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO", HBO 2 HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27300.m3u8
+#EXTINF: -1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO", HBO 2 SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27301.m3u8
+#EXTINF: -1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO", HBO Family FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27302.m3u8
+#EXTINF: -1 tvg-id="HBO Family HD" tvg-name="HBO Family HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO", HBO Family HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27303.m3u8
+#EXTINF: -1 tvg-id="HBO Family SD" tvg-name="HBO Family SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO", HBO Family SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27304.m3u8
+#EXTINF: -1 tvg-id="HBO FHD" tvg-name="HBO FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO", HBO FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27296.m3u8
+#EXTINF: -1 tvg-id="HBO HD" tvg-name="HBO HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO", HBO HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27297.m3u8
+#EXTINF: -1 tvg-id="HBO SD" tvg-name="HBO SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO", HBO SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27298.m3u8
+#EXTINF: -1 tvg-id="HBO Mundi FHD" tvg-name="HBO Mundi FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO", HBO Mundi FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27305.m3u8
+#EXTINF: -1 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO", HBO Mundi HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27306.m3u8
+#EXTINF: -1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO", HBO Mundi SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27307.m3u8
+#EXTINF: -1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO", HBO Plus HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27308.m3u8
+#EXTINF: -1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO", HBO Plus SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27309.m3u8
+#EXTINF: -1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO", HBO Pop FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27310.m3u8
+#EXTINF: -1 tvg-id="hbopop.br" tvg-name="HBO Pop HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO", HBO Pop HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27311.m3u8
+#EXTINF: -1 tvg-id="hbopop.br" tvg-name="HBO Pop SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO", HBO Pop SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27312.m3u8
+#EXTINF: -1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO", HBO Signature FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27313.m3u8
+#EXTINF: -1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO", HBO Signature HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27314.m3u8
+#EXTINF: -1 tvg-id="HBO Signature SD" tvg-name="HBO Signature SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO", HBO Signature SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27315.m3u8
+#EXTINF: -1 tvg-id="HBO Xtreme FHD" tvg-name="HBO Xtreme FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO", HBO Xtreme FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27316.m3u8
+#EXTINF: -1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO", HBO Xtreme HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27317.m3u8
+#EXTINF: -1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO", HBO Xtreme SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27318.m3u8
+#EXTINF: -1 tvg-id="Nosso Futebol 01 HD" tvg-name="Nosso Futebol 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/nossofutebol.png" group-title=" Canais :: NOSSO FUTEBOL ", Nosso Futebol 1 HD
+http://dns.maxptv.net:2052/live/max885/992801057/85681.m3u8
+#EXTINF: -1 tvg-id="Nosso Futebol + 2" tvg-name="Nosso Futebol 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/nossofutebol.png" group-title=" Canais :: NOSSO FUTEBOL ", Nosso Futebol 2 HD
+http://dns.maxptv.net:2052/live/max885/992801057/85682.m3u8
+#EXTINF: -1 tvg-id="Nosso Futebol + 3" tvg-name="Nosso Futebol 3 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/nossofutebol.png" group-title=" Canais :: NOSSO FUTEBOL ", Nosso Futebol 3 HD
+http://dns.maxptv.net:2052/live/max885/992801057/85683.m3u8
+#EXTINF: -1 tvg-id="Nosso Futebol 01 HD" tvg-name="Nosso Futebol 4 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/nossofutebol.png" group-title=" Canais :: NOSSO FUTEBOL ", Nosso Futebol 4 HD
+http://dns.maxptv.net:2052/live/max885/992801057/85684.m3u8
+#EXTINF: -1 tvg-id="RecordTVItapoan.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD BAHIA HD
+http://dns.maxptv.net:2052/live/max885/992801057/50368.m3u8
+#EXTINF: -1 tvg-id="RecordTVMinas.br" tvg-name="Record BH HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", Record BH HD
+http://dns.maxptv.net:2052/live/max885/992801057/50369.m3u8
+#EXTINF: -1 tvg-id="RecordTVGoias.br" tvg-name="RECORD DF HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD DF HD
+http://dns.maxptv.net:2052/live/max885/992801057/50370.m3u8
+#EXTINF: -1 tvg-id="RecordTVMinas.br" tvg-name="RECORD MG HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD MG HD
+http://dns.maxptv.net:2052/live/max885/992801057/50372.m3u8
+#EXTINF: -1 tvg-id="Record.br" tvg-name="RECORD PA HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD PA HD
+http://dns.maxptv.net:2052/live/max885/992801057/50373.m3u8
+#EXTINF: -1 tvg-id="RecordTVRio.br" tvg-name="RECORD RJ HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD RJ HD
+http://dns.maxptv.net:2052/live/max885/992801057/50374.m3u8
+#EXTINF: -1 tvg-id="RecordRS.br" tvg-name="RECORD RS HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD RS HD
+http://dns.maxptv.net:2052/live/max885/992801057/50375.m3u8
+#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ", RECORD SP HD
+http://dns.maxptv.net:2052/live/max885/992801057/50376.m3u8
+#EXTINF: -1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE", Telecine Action FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27457.m3u8
+#EXTINF: -1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE", Telecine Action HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27458.m3u8
+#EXTINF: -1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE", Telecine Action SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27459.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE", Telecine Cult FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27460.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE", Telecine Cult HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27461.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE", Telecine Cult SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27462.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE", Telecine Fun HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27463.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE", Telecine Fun SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27464.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE", Telecine Pipoca FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27465.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE", Telecine Pipoca HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27466.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE", Telecine Pipoca SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27467.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE", Telecine Premium FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27469.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE", Telecine Premium HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27468.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE", Telecine Premium SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27470.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch FHD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE", Telecine Touch FHD*
+http://dns.maxptv.net:2052/live/max885/992801057/27471.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE", Telecine Touch HD*
+http://dns.maxptv.net:2052/live/max885/992801057/27472.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch SD*" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE", Telecine Touch SD*
+http://dns.maxptv.net:2052/live/max885/992801057/27473.m3u8
+#EXTINF: -1 tvg-id="UFC Fight Pass HD" tvg-name="UFC FIGHT PASS HD " tvg-logo="https://painelsbo.painel.life/logosiptv/nn/ufcnovo.png" group-title="Stream :: UFC FIGHT PASS", UFC FIGHT PASS HD
+http://dns.maxptv.net:2052/live/max885/992801057/83359.m3u8
+#EXTINF: -1 tvg-id="UFC Fight Pass HD" tvg-name="UFC FIGHT PASS HD 2" tvg-logo="https://painelsbo.painel.life/logosiptv/nn/ufcnovo.png" group-title="Stream :: UFC FIGHT PASS", UFC FIGHT PASS HD 2
+http://dns.maxptv.net:2052/live/max885/992801057/86148.m3u8
+#EXTINF: -1 tvg-id="NBA10" tvg-name="ELEVEN SPORTS HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84506.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ELEVEN SPORTS 2 HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS 2 HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84508.m3u8
+#EXTINF: -1 tvg-id="NBA10" tvg-name="ELEVEN SPORTS 3 HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS 3 HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84510.m3u8
+#EXTINF: -1 tvg-id="NBA10" tvg-name="ELEVEN SPORTS 4 HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS 4 HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84513.m3u8
+#EXTINF: -1 tvg-id="NBA10" tvg-name="ELEVEN SPORTS 5 HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS 5 HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84515.m3u8
+#EXTINF: -1 tvg-id="Brasileirao Serie C HD 03 (Eleven)" tvg-name="ELEVEN SPORTS 6 HD (PPV)" tvg-logo="https://painelsbo.painel.life/logosiptv/eleven/eleven.png" group-title="Stream :: ELEVEN SPORTS", ELEVEN SPORTS 6 HD (PPV)
+http://dns.maxptv.net:2052/live/max885/992801057/84517.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NBA - 01" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/nba.png" group-title="Stream :: NBA LEAGUE PASS", NBA - 01
+http://dns.maxptv.net:2052/live/max885/992801057/134491.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NBA - 02" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/nba.png" group-title="Stream :: NBA LEAGUE PASS", NBA - 02
+http://dns.maxptv.net:2052/live/max885/992801057/134492.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NBA - 03" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/nba.png" group-title="Stream :: NBA LEAGUE PASS", NBA - 03
+http://dns.maxptv.net:2052/live/max885/992801057/134493.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NBA - 04" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/nba.png" group-title="Stream :: NBA LEAGUE PASS", NBA - 04
+http://dns.maxptv.net:2052/live/max885/992801057/134494.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Paulistão Play 1" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/paulistaplay.png" group-title="Stream :: I PAULISTÃO PLAY ", Paulistão Play 1
+http://dns.maxptv.net:2052/live/max885/992801057/137941.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Paulistão Play 2" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/paulistaplay.png" group-title="Stream :: I PAULISTÃO PLAY ", Paulistão Play 2
+http://dns.maxptv.net:2052/live/max885/992801057/137942.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 1" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista", A GRANDE CONQUISTA SINAL 1
+http://dns.maxptv.net:2052/live/max885/992801057/139986.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 2" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista", A GRANDE CONQUISTA SINAL 2
+http://dns.maxptv.net:2052/live/max885/992801057/139987.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 3" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista", A GRANDE CONQUISTA SINAL 3
+http://dns.maxptv.net:2052/live/max885/992801057/139988.m3u8
+#EXTINF: -1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 4" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista", A GRANDE CONQUISTA SINAL 4
+http://dns.maxptv.net:2052/live/max885/992801057/139989.m3u8
