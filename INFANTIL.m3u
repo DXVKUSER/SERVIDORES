@@ -1,0 +1,224 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" tvg-name="Baby TV FHD²" group-title="INFANTIL",Baby TV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586180.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baby TV HD²" group-title="INFANTIL",Baby TV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586181.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" tvg-name="Baby TV SD²" group-title="INFANTIL",Baby TV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586182.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BABYTV FHD" group-title="INFANTIL",BABYTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586141.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY9_erfamGSMRW6sZ82_sbEG_UBdTnmV-kI0R4UYU7v5AgIbnA3AOt8E7uJDgSZPNNyM.png" tvg-name="BABYTV HD" group-title="INFANTIL",BABYTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586142.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/images/7mbrPGN0X61dF8hwG-ZJwHKPj-uk2msdTZRl14l4Els9KPdNkUTPWgupkSnV-GfUdzwjcJ2u3iapOVG_E27jUcVgfBa0fsZTjFSFeFHuglY.png" tvg-name="BABYTV SD" group-title="INFANTIL",BABYTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586143.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/ef8b5f437c2e72b5c7295e53d2cfa088.png" tvg-name="CARTOON NETWORK FHD" group-title="INFANTIL",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586144.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" tvg-name="Cartoon Network FHD²" group-title="INFANTIL",Cartoon Network FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586183.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/91f5738a827405b0f0bd80af1b7e386c.png" tvg-name="CARTOON NETWORK HD" group-title="INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586145.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Cartoon Network HD²" group-title="INFANTIL",Cartoon Network HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586184.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY98tLEfjfCxmbGalcx5nvWj43UyiFSQiiG7L1KO2ykZMy5qjraXXeF4jXw9sM60Y9FU.png" tvg-name="CARTOON NETWORK SD" group-title="INFANTIL",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586146.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" tvg-name="Cartoon Network SD²" group-title="INFANTIL",Cartoon Network SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586185.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/81195efbc65e4b5479c59bf6b8eb3d2d.png" tvg-name="CARTOONITO FHD" group-title="INFANTIL",CARTOONITO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586147.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" tvg-name="Cartoonito FHD²" group-title="INFANTIL",Cartoonito FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586186.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/ff9dd92ae40b9a9999047725800467d6.png" tvg-name="CARTOONITO HD" group-title="INFANTIL",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586148.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Cartoonito HD²" group-title="INFANTIL",Cartoonito HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586187.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/ff9dd92ae40b9a9999047725800467d6.png" tvg-name="CARTOONITO SD" group-title="INFANTIL",CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586149.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" tvg-name="Cartoonito SD²" group-title="INFANTIL",Cartoonito SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586188.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="http://srv.mypanel.life:8080/images/0c4ac8de6c7cd5843de8686be08a5132.png" tvg-name="DISCOVERY KIDS FHD" group-title="INFANTIL",DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586150.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" tvg-name="Discovery Kids FHD²" group-title="INFANTIL",Discovery Kids FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586177.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="http://srv.mypanel.life:8080/images/1fba0cc9cf2d7d578fb482914b0861b8.png" tvg-name="DISCOVERY KIDS HD" group-title="INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586151.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Discovery Kids HD²" group-title="INFANTIL",Discovery Kids HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586178.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="http://srv.mypanel.life:8080/images/1fba0cc9cf2d7d578fb482914b0861b8.png" tvg-name="DISCOVERY KIDS SD" group-title="INFANTIL",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" tvg-name="Discovery Kids SD²" group-title="INFANTIL",Discovery Kids SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586179.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://srv.mypanel.life:8080/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" tvg-name="DISNEY CHANNEL FHD" group-title="INFANTIL",DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586153.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/Uys1Ag.png" tvg-name="Disney Channel FHD²" group-title="INFANTIL",Disney Channel FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586189.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://srv.mypanel.life:8080/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" tvg-name="DISNEY CHANNEL HD" group-title="INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586154.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Disney Channel HD²" group-title="INFANTIL",Disney Channel HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586190.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://srv.mypanel.life:8080/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" tvg-name="DISNEY CHANNEL SD" group-title="INFANTIL",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586155.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/Uys1Ag.png" tvg-name="Disney Channel SD²" group-title="INFANTIL",Disney Channel SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586191.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/cRTl-lInUAo/maxreSD²efault.jpg" tvg-name="Dreamworks HD²" group-title="INFANTIL",Dreamworks HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586192.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://srv.mypanel.life:8080/images/5e2247ab07fc3f9f14af2655d76039a6.png" tvg-name="GLOOB FHD" group-title="INFANTIL",GLOOB FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586156.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" tvg-name="Gloob FHD²" group-title="INFANTIL",Gloob FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586193.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://srv.mypanel.life:8080/images/5e2247ab07fc3f9f14af2655d76039a6.png" tvg-name="GLOOB HD" group-title="INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586157.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Gloob HD²" group-title="INFANTIL",Gloob HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586194.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://srv.mypanel.life:8080/images/5e2247ab07fc3f9f14af2655d76039a6.png" tvg-name="GLOOB SD" group-title="INFANTIL",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586158.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" tvg-name="Gloob SD²" group-title="INFANTIL",Gloob SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586195.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/50e9728503a9bffabe5e07c912b38f89.png" tvg-name="GLOOBINHO FHD" group-title="INFANTIL",GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586159.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" tvg-name="Gloobinho FHD²" group-title="INFANTIL",Gloobinho FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586196.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/50e9728503a9bffabe5e07c912b38f89.png" tvg-name="GLOOBINHO HD" group-title="INFANTIL",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586160.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Gloobinho HD²" group-title="INFANTIL",Gloobinho HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586197.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://srv.mypanel.life:8080/images/50e9728503a9bffabe5e07c912b38f89.png" tvg-name="GLOOBINHO SD" group-title="INFANTIL",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586161.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" tvg-name="Gloobinho SD²" group-title="INFANTIL",Gloobinho SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586198.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICK JR FHD" group-title="INFANTIL",NICK JR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586162.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICK JR HD" group-title="INFANTIL",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586163.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICK JR SD" group-title="INFANTIL",NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586164.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" tvg-name="Nick Jr. FHD²" group-title="INFANTIL",Nick Jr. FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Nick Jr. HD²" group-title="INFANTIL",Nick Jr. HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" tvg-name="Nick Jr. SD²" group-title="INFANTIL",Nick Jr. SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICKELODEON FHD" group-title="INFANTIL",NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586165.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" tvg-name="Nickelodeon FHD²" group-title="INFANTIL",Nickelodeon FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICKELODEON HD" group-title="INFANTIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Nickelodeon HD²" group-title="INFANTIL",Nickelodeon HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586203.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICKELODEON SD" group-title="INFANTIL",NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586167.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" tvg-name="Nickelodeon SD²" group-title="INFANTIL",Nickelodeon SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586204.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="RATIMBUM SD²" group-title="INFANTIL",RATIMBUM SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586205.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TOONCAST FHD" group-title="INFANTIL",TOONCAST FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586168.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/tooncast.png" tvg-name="Tooncast FHD²" group-title="INFANTIL",Tooncast FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586206.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TOONCAST HD" group-title="INFANTIL",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586169.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/tooncast.png" tvg-name="Tooncast HD²" group-title="INFANTIL",Tooncast HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TOONCAST SD" group-title="INFANTIL",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586170.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/tooncast.png" tvg-name="Tooncast SD²" group-title="INFANTIL",Tooncast SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586208.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TV RATIMBUM FHD" group-title="INFANTIL",TV RATIMBUM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586171.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TV RATIMBUM HD" group-title="INFANTIL",TV RATIMBUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586172.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TV RATIMBUM SD" group-title="INFANTIL",TV RATIMBUM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586173.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" tvg-name="TV Rá Tim Bum FHD²" group-title="INFANTIL",TV Rá Tim Bum FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586209.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TV Rá Tim Bum HD²" group-title="INFANTIL",TV Rá Tim Bum HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586210.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" tvg-name="TV Rá Tim Bum SD²" group-title="INFANTIL",TV Rá Tim Bum SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586211.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZOOMOO FHD" group-title="INFANTIL",ZOOMOO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586174.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZOOMOO HD" group-title="INFANTIL",ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586175.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZooMoo HD²" group-title="INFANTIL",ZooMoo HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586212.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZOOMOO SD" group-title="INFANTIL",ZOOMOO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586176.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" tvg-name="ZooMoo SD²" group-title="INFANTIL",ZooMoo SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]CANAIS DO LUIZ MIGUEL[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://w2zx.la:80/Larissa123/Larissa123/1586213.m3u8
