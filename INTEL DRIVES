@@ -8,3 +8,4 @@ sudo pacman -S base-devel solved
 LIBVA_DRIVER_NAME=iHD in /etc/environment
 LIBVA_DRIVER_NAME=i965 in /etc/environment
 
+http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&output=m3u8
