@@ -2,16 +2,20 @@
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.catchup_url_near_live_format_string=true
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=http
+#KODIPROP:inputstream.ffmpegdirect.default_url=http
+#KODIPROP:inputstream.ffmpegdirect.playback_as_live=false
+#KODIPROP:inputstream.ffmpegdirect.programme_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.programme_end_time=2111111
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_end_time=1111111
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=1111111
+#KODIPROP:inputstream.ffmpegdirect.timezone_shift=0
+#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #EXTINF:-1 tvg-id="Globodf.br" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globo Centro-Oeste",TV FANTASMA HD
 http://d7kz.in:80/live/Larissa123/Larissa123/1593157.m3u8|User-Agent=VLC/3.6.8
 
