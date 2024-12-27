@@ -9,3 +9,10 @@ LIBVA_DRIVER_NAME=iHD in /etc/environment
 LIBVA_DRIVER_NAME=i965 in /etc/environment
 
 http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&output=m3u8
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.live_delay=99
+#KODIPROP:inputstream.adaptive.is_realtime_stream=false
+#KODIPROP:inputstream.adaptive.manifest_type=hls
