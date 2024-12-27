@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="Globodf.br" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globo Centro-Oeste",TV FANTASMA HD
+http://cloud-nany.cc:80/live/Adm0001/10908070D/8015.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
