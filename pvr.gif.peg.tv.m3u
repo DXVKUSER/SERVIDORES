@@ -8,6 +8,7 @@
 #KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_near_live_format_string=true
 #EXTINF:-1 tvg-id="Globodf.br" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globo Centro-Oeste",TV FANTASMA HD
 http://d7kz.in:80/live/Larissa123/Larissa123/1593157.m3u8|User-Agent=VLC/3.6.8
 
