@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
 
 
-#EXTINF:-1 tvg-id="Globodf.br" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globo Centro-Oeste",TESTE HTTPS
+#EXTINF:-1 tvg-id="Globodf.br" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globo Centro-Oeste",NOVO F4MTESTER
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TESTE TV&url=http://ptt10.cdnfreefire.com/live/123456789/987654321/204459.m3u8?token=UjNtT1NsYkRlU3lFYzF3
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
