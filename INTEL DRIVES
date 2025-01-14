@@ -27,3 +27,21 @@ http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=false
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
+#KODIPROP:inputstream.ffmpegdirect.programme_start_time=1
+#KODIPROP:inputstream.ffmpegdirect..programme_end_time=20
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=2
+#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=20
+#EXTINF:-1
+
