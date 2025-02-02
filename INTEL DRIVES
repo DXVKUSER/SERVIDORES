@@ -47,3 +47,7 @@ http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=20
 #EXTINF:-1
 
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:http--reconnect=true
+#EXTINF:-1
+
