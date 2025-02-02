@@ -14,9 +14,9 @@ http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&
 
 
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:http--reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.live_delay=99
-#KODIPROP:inputstream.adaptive.is_realtime_stream=false
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 
 
@@ -51,3 +51,9 @@ http://grianze.com:80/get.php?username=276966883&password=2224188&type=m3u_plus&
 #KODIPROP:http--reconnect=true
 #EXTINF:-1
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:http--reconnect=true
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.live_delay=99
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1
