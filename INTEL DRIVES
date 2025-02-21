@@ -105,3 +105,16 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=nome&buffer=4096&url=
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
 #EXTINF:-1
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.hls_ignore_endlist=true
+#KODIPROP:inputstream.adaptive.hls_fix_mediasequence=true
+#KODIPROP:inputstream.adaptive.hls_fix_discsequence=true
+#KODIPROP:inputstream.adaptive.manifest_config=true
+#KODIPROP:inputstream.adaptive.internal_cookies=true
+#KODIPROP:inputstream.adaptive.live_delay=10000
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1
+
