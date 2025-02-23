@@ -3,6 +3,9 @@ sudo apt-get install --reinstall intel-media-va-driver:amd64
 
 sudo apt-get install --reinstall $(dpkg -l | grep ^ii | grep -i intel | awk '{print $2}')
 
+#EXTM3U x-tvg-url="http://danfs.xyz:80/xmltv.php?username=2222222222&password=2222222222"
+
+
 sudo pacman -S base-devel solved
 
 LIBVA_DRIVER_NAME=iHD in /etc/environment
