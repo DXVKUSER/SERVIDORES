@@ -121,3 +121,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=nome&buffer=4096&url=
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#EXTINF:-1
