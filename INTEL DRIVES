@@ -15,6 +15,9 @@ http://ftv.cdn4k.vip/get.php?username=romero&password=0923a9b&type=m3u_plus
 http://cwbtvplay.com/get.php?username=987897148&password=178770797&type=m3u_plus
 http://cdn.lvbxtv.com/get.php?username=718287958747&password=198997216397&type=m3u_plus&output=m3u8
 
+
+
+https://site.com/stream.m3u8&q=best&p=http://IP:PORTA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen] GIF [COLOR springgreen]PEG [COLOR orangered]TV[/COLOR]&buffer=4096&url=
 
 #KODIPROP:inputstream=inputstream.adaptive
